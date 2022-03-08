@@ -1,0 +1,15 @@
+lsst.daf.butler.cli.utils ERROR: Caught an exception, details are in traceback:
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cli/cmd/commands.py", line 104, in run
+    qgraph = script.qgraph(pipelineObj=pipeline, **kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cli/script/qgraph.py", line 183, in qgraph
+    qgraph = f.makeGraph(pipelineObj, args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 561, in makeGraph
+    registry, collections, run = _ButlerFactory.makeRegistryAndCollections(args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 350, in makeRegistryAndCollections
+    butler, inputs, self = cls._makeReadParts(args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 288, in _makeReadParts
+    self.check(args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 237, in check
+    raise ValueError(
+ValueError: Output CHAINED collection 'u/abrought/BF/run_13230/R02_S00/corrected' exists, but it ends with a different sequence of input collections than those given: 'u/abrought/BF/run_13144/bfks2/20220214T194934Z' != 'u/abrought/BF/run_13144/bfks/20220208T003133Z' in inputs=('LSSTCam/raw/all', 'LSSTCam/calib', 'u/abrought/BF/run_13141/sbias/20220207T183545Z', 'u/abrought/BF/run_13162/sdark/20220207T215401Z', 'u/abrought/BF/run_13141/defects/20220207T202209Z', 'u/abrought/BF/run_13141/sflat/20220207T184339Z', 'u/abrought/BF/run_13144/ptcs/20220207T220227Z', 'u/abrought/BF/run_13144/bfks2/20220214T195301Z', 'u/abrought/BF/run_13144/bfks2/20220214T195126Z', 'u/abrought/BF/run_13144/bfks2/20220214T194934Z') vs u/abrought/BF/run_13230/R02_S00/corrected=('u/abrought/BF/run_13230/R02_S00/corrected/20220209T224825Z', 'LSSTCam/raw/all', 'LSSTCam/calib', 'u/abrought/BF/run_13141/sbias/20220207T183545Z', 'u/abrought/BF/run_13162/sdark/20220207T215401Z', 'u/abrought/BF/run_13141/defects/20220207T202209Z', 'u/abrought/BF/run_13141/sflat/20220207T184339Z', 'u/abrought/BF/run_13144/ptcs/20220207T220227Z', 'u/abrought/BF/run_13144/bfks/20220208T003133Z').

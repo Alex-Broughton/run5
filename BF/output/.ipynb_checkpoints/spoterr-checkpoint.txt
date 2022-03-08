@@ -1,0 +1,54 @@
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1644862583.9327974-51971'
+lsst.daf.butler.cli.utils ERROR: Caught an exception, details are in traceback:
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+psycopg2.errors.ForeignKeyViolation: update or delete on table "collection" violates foreign key constraint "fkey_collection_chain_collection_collection_id_child" on table "collection_chain"
+DETAIL:  Key (collection_id)=(266) is still referenced from table "collection_chain".
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cli/cmd/commands.py", line 105, in run
+    script.run(qgraphObj=qgraph, **kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cli/script/run.py", line 175, in run
+    f.runPipeline(qgraphObj, taskFactory, args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 688, in runPipeline
+    butler = _ButlerFactory.makeWriteButler(args, graph.iterTaskGraph())
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 399, in makeWriteButler
+    butler.pruneCollection(replaced, purge=True, unstore=True)
+  File "/sdf/home/j/jchiang/dev/daf_butler/python/lsst/daf/butler/_butler.py", line 1570, in pruneCollection
+    self.registry.removeCollection(name)
+  File "/sdf/home/j/jchiang/dev/daf_butler/python/lsst/daf/butler/core/utils.py", line 56, in inner
+    return func(self, *args, **kwargs)
+  File "/sdf/home/j/jchiang/dev/daf_butler/python/lsst/daf/butler/registries/sql.py", line 345, in removeCollection
+    self._managers.collections.remove(name)
+  File "/sdf/home/j/jchiang/dev/daf_butler/python/lsst/daf/butler/registry/collections/_base.py", line 438, in remove
+    self._db.delete(
+  File "/sdf/home/j/jchiang/dev/daf_butler/python/lsst/daf/butler/registry/interfaces/_database.py", line 1582, in delete
+    rowcount += connection.execute(newsql).rowcount
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1289, in execute
+    return meth(self, multiparams, params, _EMPTY_EXECUTION_OPTS)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/sql/elements.py", line 325, in _execute_on_connection
+    return connection._execute_clauseelement(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1481, in _execute_clauseelement
+    ret = self._execute_context(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1845, in _execute_context
+    self._handle_dbapi_exception(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 2026, in _handle_dbapi_exception
+    util.raise_(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/util/compat.py", line 207, in raise_
+    raise exception
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/base.py", line 1802, in _execute_context
+    self.dialect.do_execute(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/site-packages/sqlalchemy/engine/default.py", line 732, in do_execute
+    cursor.execute(statement, parameters)
+sqlalchemy.exc.IntegrityError: (psycopg2.errors.ForeignKeyViolation) update or delete on table "collection" violates foreign key constraint "fkey_collection_chain_collection_collection_id_child" on table "collection_chain"
+DETAIL:  Key (collection_id)=(266) is still referenced from table "collection_chain".
+
+[SQL: DELETE FROM bot_data_w_2021_43.collection WHERE bot_data_w_2021_43.collection.collection_id IN (%(collection_id_1_1)s)]
+[parameters: {'collection_id_1_1': 266}]
+(Background on this error at: https://sqlalche.me/e/14/gkpj)
