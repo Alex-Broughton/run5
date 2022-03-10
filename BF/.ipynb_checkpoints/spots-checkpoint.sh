@@ -10,9 +10,9 @@
 #SBATCH --mem-per-cpu=16G
 #SBATCH --time=24:00:00
 
-source /cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/loadLSST.bash
+source /cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_10/loadLSST.bash
 setup lsst_distrib
-setup -r /sdf/home/j/jchiang/dev/daf_butler -j
+#setup -r /sdf/home/j/jchiang/dev/daf_butler -j
 setup -j -r /sdf/home/a/abrought/cp_pipe
 
 export REPO=/sdf/group/lsst/camera/IandT/repo_gen3/BOT_data/
@@ -20,9 +20,9 @@ export superbias=u/abrought/BF/run_13141/sbias
 export superflat=u/abrought/BF/run_13141/sflat
 export defects=u/abrought/BF/run_13141/defects
 export superdark=u/abrought/BF/run_13162/sdark
+export linearity=u/abrought/BF/run_13144/linearity
 export ptcs=u/abrought/BF/run_13144/ptcs
 export ptcs_linearized=u/abrought/BF/run_13144/ptcs_linearized
-export linearities=u/abrought/BF/run_13144/linearities
 export bfks=u/abrought/BF/run_13144/bfks2
 export bfks_linearized=u/abrought/BF/run_13144/bfks_linearized
 export PYTHONPATH="/sdf/home/a/abrought/bin/mixcoatl/python:${PYTHONPATH}"
@@ -79,7 +79,7 @@ export PYTHONPATH="/sdf/home/a/abrought/bin/mixcoatl/python:${PYTHONPATH}"
 #    -j 15 \
 #    -d "instrument='LSSTCam' AND detector IN (9, 23, 31, 112, 136) AND exposure.science_program IN ('13144')  AND exposure.observation_type = 'flat' AND exposure.observation_reason='flat' " \
 #    -b /sdf/group/lsst/camera/IandT/repo_gen3/BOT_data/butler.yaml \
-#    -i LSSTCam/raw/all,LSSTCam/calib,${superbias},${superdark},${linearities} \
+#    -i LSSTCam/raw/all,LSSTCam/calib,${superbias},${superdark},${linearity} \
 #    -o u/abrought/BF/run_13144/ptcs_linearized \
 #    -p /sdf/home/a/abrought/yaml/measurePhotonTransferCurve.yaml \
 #         -c ptcSolve:ptcFitType=EXPAPPROXIMATION \
@@ -92,10 +92,8 @@ export PYTHONPATH="/sdf/home/a/abrought/bin/mixcoatl/python:${PYTHONPATH}"
 #      -d "instrument='LSSTCam' AND exposure IN (3021120600576) AND detector in (9, 23, 31, 112, 136) AND exposure.science_program IN ('13144')" \
 #      -b /sdf/group/lsst/camera/IandT/repo_gen3/BOT_data/butler.yaml \
 #      -i LSSTCam/raw/all,LSSTCam/calib,${superbias},${superflat},${defects},${ptcs} \
-#      -o u/abrought/BF/run_13144/linearities \
+#      -o u/abrought/BF/run_13144/linearity \
 #      -p /sdf/home/a/abrought/yaml/cpLinearityCorrected.yaml \
-#      --replace-run \
-#      --prune-replaced purge \
 #      --register-dataset-types
 # Run PTC task again after linearizer
 
