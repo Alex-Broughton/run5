@@ -25,8 +25,11 @@ export sdark=u/abrought/BF/run_13162/sdark
 export linearity=u/abrought/BF/run_13144/linearity
 export ptcs=u/abrought/BF/run_13144/ptcs
 export ptcs_linearized=u/abrought/BF/run_13144/ptcs_linearized
-export bfks=u/abrought/BF/run_13144/bfks2
+export bfks=u/abrought/BF/run_13144/bfks
+export bfks_raw=u/abrought/BF/run_13144/bfks_raw
 export bfks_linearized=u/abrought/BF/run_13144/bfks_linearized
+export bfks_experimental=u/abrought/BF/run_13144/bfks_experimental_nozerosum
+
   
 # Generate BF Kernels
 # You must only a single dummy exposure in the -d option. I selected the first in the sequence. This generated the kernel for the given detector.
@@ -37,29 +40,40 @@ export bfks_linearized=u/abrought/BF/run_13144/bfks_linearized
 # If you don't want to linearize the results, replace all the ${*_linearized} collection with the regular ones and set doLinearize=False in all
 # yaml files (cpBfkSolve.yaml & gridFit.yaml)
  
-pipetask run \
-       -j 25 \
-       -d "instrument='LSSTCam' AND exposure IN (3021120600576) AND detector in (23) " \
-       -b ${REPO}/butler.yaml \
-       -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs_linearized}  \
-       -o ${bfks_linearized} \
-       -p ${YAML}/cpBfkSolve.yaml \
-       --register-dataset-types
+# pipetask run \
+#       -j 25 \
+#       -d "instrument='LSSTCam' AND exposure IN (3021120600576) AND detector IN (9, 23, 31, 83, 112, 136) " \
+#       -b ${REPO}/butler.yaml \
+#       -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs_linearized}  \
+#       -o ${bfks_linearized} \
+#       -p ${YAML}/cpBfkSolve.yaml \
+#       --register-dataset-types
         
-cp ${YAML}/cpBfkSolve.yaml ${REPO}/${bfks_linearized}
+# cp ${YAML}/cpBfkSolve.yaml ${REPO}/${bfks_linearized}
  
 # Run the IsrTask + MIXCOATL tasks
 pipetask run \
         -j 25 \
-        -d "instrument='LSSTCam' AND detector in ( 23 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13232')" \
+        -d "instrument='LSSTCam' AND detector in ( 112 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13250')" \
         -b ${REPO}/butler.yaml \
-        -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${linearity},${ptcs_linearized},${bfks_linearized} \
-        -o u/abrought/BF/run_13232/R03_S12/corrected_linearized \
+        -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs},${bfks} \
+        -o u/abrought/BF/run_13250/R24_S11/corrected \
         -p ${YAML}/gridFit.yaml \
         --register-dataset-types
  
-cp ${YAML}/gridFit.yaml ${REPO}/u/abrought/BF/run_13232/R03_S12/corrected_linearized
+cp ${YAML}/gridFit.yaml ${REPO}/u/abrought/BF/run_13250/R24_S11/corrected
 
+
+pipetask run \
+        -j 25 \
+        -d "instrument='LSSTCam' AND detector in ( 112 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13250')" \
+        -b ${REPO}/butler.yaml \
+        -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs},${bfks} \
+        -o u/abrought/BF/run_13250/R24_S11/uncorrected \
+        -p ${YAML}/gridFit2.yaml \
+        --register-dataset-types
+ 
+cp ${YAML}/gridFit2.yaml ${REPO}/u/abrought/BF/run_13250/R24_S11/uncorrected
 
 
 # END

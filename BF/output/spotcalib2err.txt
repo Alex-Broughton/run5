@@ -1,0 +1,992 @@
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 114 quanta for 3 tasks, graph ID: '1649887923.5675948-69419'
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000210/MC_C_20211212_000210_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000204/MC_C_20211212_000204_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000204/MC_C_20211212_000204_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000204/MC_C_20211212_000204_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000198/MC_C_20211212_000198_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000210/MC_C_20211212_000210_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000212/MC_C_20211212_000212_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000202/MC_C_20211212_000202_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000208/MC_C_20211212_000208_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000214/MC_C_20211212_000214_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking defects.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Set 19763 BAD pixels to 3.901316.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 148610 BAD pixels to 1.617285.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Set 19763 BAD pixels to 1.910938.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 3691 BAD pixels to 2.036133.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Set 195411 BAD pixels to 3.175488.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 73746 BAD pixels to 2.060937.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 195154 BAD pixels to 3.188379.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 69139 BAD pixels to 0.226270.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 73746 BAD pixels to 4.249316.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 196757 BAD pixels to 3.159473.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200210, ...} took 13.910 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 113 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200204, ...} took 17.194 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200208, ...} took 17.259 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200214, ...} took 17.293 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200198, ...} took 17.267 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200210, ...} took 17.311 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 2 quanta successfully, 0 failed and 112 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200204, ...} took 17.365 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 4 quanta successfully, 0 failed and 110 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 6 quanta successfully, 0 failed and 108 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 7 quanta successfully, 0 failed and 107 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200212, ...} took 17.843 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200202, ...} took 17.845 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200204, ...} took 17.951 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 9 quanta successfully, 0 failed and 105 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 10 quanta successfully, 0 failed and 104 remain out of total 114 quanta.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000212/MC_C_20211212_000212_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 3691 BAD pixels to 4.154981.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000202/MC_C_20211212_000202_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000212/MC_C_20211212_000212_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000206/MC_C_20211212_000206_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000200/MC_C_20211212_000200_R24_S11.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000200/MC_C_20211212_000200_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000206/MC_C_20211212_000206_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000212/MC_C_20211212_000212_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000214/MC_C_20211212_000214_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000208/MC_C_20211212_000208_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Set 135958 BAD pixels to 1.620996.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 193776 BAD pixels to 3.172492.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking defects.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200212, ...} took 11.321 seconds
+lsst.isr INFO: Set 3691 BAD pixels to 0.325391.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 3691 BAD pixels to 4.132617.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 191399 BAD pixels to 3.204102.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 69139 BAD pixels to 0.242578.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 11 quanta successfully, 0 failed and 103 remain out of total 114 quanta.
+lsst.isr INFO: Set 19763 BAD pixels to 4.224219.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr INFO: Set 75583 BAD pixels to 3.343457.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Set 99293 BAD pixels to 2.637305.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200202, ...} took 11.821 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200200, ...} took 12.106 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200206, ...} took 12.261 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 13 quanta successfully, 0 failed and 101 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 14 quanta successfully, 0 failed and 100 remain out of total 114 quanta.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000212/MC_C_20211212_000212_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200200, ...} took 12.500 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200212, ...} took 12.011 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 15 quanta successfully, 0 failed and 99 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200212, ...} took 12.583 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 16 quanta successfully, 0 failed and 98 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 17 quanta successfully, 0 failed and 97 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200206, ...} took 12.819 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 18 quanta successfully, 0 failed and 96 remain out of total 114 quanta.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200214, ...} took 12.680 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200208, ...} took 12.896 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 19 quanta successfully, 0 failed and 95 remain out of total 114 quanta.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 20 quanta successfully, 0 failed and 94 remain out of total 114 quanta.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 99293 BAD pixels to 2.685937.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000204/MC_C_20211212_000204_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000202/MC_C_20211212_000202_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000210/MC_C_20211212_000210_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000214/MC_C_20211212_000214_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000200/MC_C_20211212_000200_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000198/MC_C_20211212_000198_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000206/MC_C_20211212_000206_R10_S11.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000206/MC_C_20211212_000206_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000198/MC_C_20211212_000198_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200212, ...} took 11.025 seconds
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 21 quanta successfully, 0 failed and 93 remain out of total 114 quanta.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Set 99293 BAD pixels to 2.660352.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 99293 BAD pixels to 1.304585.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 99293 BAD pixels to 2.684375.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 99293 BAD pixels to 1.294727.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Set 99293 BAD pixels to 0.213184.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 99293 BAD pixels to 0.188379.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 99293 BAD pixels to 2.641406.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Set 73746 BAD pixels to 4.246192.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Set 19763 BAD pixels to 0.173437.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000200/MC_C_20211212_000200_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200214, ...} took 10.878 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 22 quanta successfully, 0 failed and 92 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200204, ...} took 11.989 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200210, ...} took 11.889 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200202, ...} took 12.085 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 23 quanta successfully, 0 failed and 91 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 24 quanta successfully, 0 failed and 90 remain out of total 114 quanta.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 25 quanta successfully, 0 failed and 89 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200206, ...} took 11.980 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200200, ...} took 12.275 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200198, ...} took 12.177 seconds
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 26 quanta successfully, 0 failed and 88 remain out of total 114 quanta.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 27 quanta successfully, 0 failed and 87 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 28 quanta successfully, 0 failed and 86 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200206, ...} took 11.634 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 29 quanta successfully, 0 failed and 85 remain out of total 114 quanta.
+lsst.isr INFO: Masking defects.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200198, ...} took 12.053 seconds
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 30 quanta successfully, 0 failed and 84 remain out of total 114 quanta.
+lsst.isr INFO: Set 19763 BAD pixels to 0.158203.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000214/MC_C_20211212_000214_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000198/MC_C_20211212_000198_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000204/MC_C_20211212_000204_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000208/MC_C_20211212_000208_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000202/MC_C_20211212_000202_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000210/MC_C_20211212_000210_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000214/MC_C_20211212_000214_R03_S12.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000208/MC_C_20211212_000208_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200200, ...} took 11.300 seconds
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 31 quanta successfully, 0 failed and 83 remain out of total 114 quanta.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000200/MC_C_20211212_000200_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Set 73746 BAD pixels to 4.254687.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Set 3691 BAD pixels to 4.148340.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 75583 BAD pixels to 1.706543.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 3691 BAD pixels to 0.326855.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 3691 BAD pixels to 2.036231.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 3691 BAD pixels to 4.173144.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr INFO: Set 75583 BAD pixels to 3.326856.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 3691 BAD pixels to 4.160254.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 73746 BAD pixels to 0.366113.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200208, ...} took 11.488 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 32 quanta successfully, 0 failed and 82 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200214, ...} took 12.170 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 33 quanta successfully, 0 failed and 81 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200204, ...} took 12.072 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200202, ...} took 11.589 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 34 quanta successfully, 0 failed and 80 remain out of total 114 quanta.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000210/MC_C_20211212_000210_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 35 quanta successfully, 0 failed and 79 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200214, ...} took 11.641 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 36 quanta successfully, 0 failed and 78 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200198, ...} took 12.409 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 37 quanta successfully, 0 failed and 77 remain out of total 114 quanta.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200208, ...} took 12.191 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 38 quanta successfully, 0 failed and 76 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200210, ...} took 12.700 seconds
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 39 quanta successfully, 0 failed and 75 remain out of total 114 quanta.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 73746 BAD pixels to 4.249902.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200200, ...} took 13.484 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 40 quanta successfully, 0 failed and 74 remain out of total 114 quanta.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000198/MC_C_20211212_000198_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000208/MC_C_20211212_000208_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000204/MC_C_20211212_000204_R32_S01.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000214/MC_C_20211212_000214_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000202/MC_C_20211212_000202_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000208/MC_C_20211212_000208_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000206/MC_C_20211212_000206_R02_S00.fits: outAmp.getRawBBox() != data.getBBox(); patching. ((minimum=(0, 0), maximum=(543, 2047)) v. (minimum=(0, 0), maximum=(575, 2047)))
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000198/MC_C_20211212_000198_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Masking defects.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Masking defects.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Set 73746 BAD pixels to 0.352344.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200210, ...} took 12.961 seconds
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Set 73746 BAD pixels to 4.237891.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Widening saturation trails.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 41 quanta successfully, 0 failed and 73 remain out of total 114 quanta.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Set 73746 BAD pixels to 2.093359.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 19763 BAD pixels to 4.144238.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 19763 BAD pixels to 1.856055.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000200/MC_C_20211212_000200_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Set 19763 BAD pixels to 4.152344.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr INFO: Set 19763 BAD pixels to 3.905762.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Set 75583 BAD pixels to 0.336328.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.isr INFO: Set 75583 BAD pixels to 0.330469.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200198, ...} took 11.588 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 42 quanta successfully, 0 failed and 72 remain out of total 114 quanta.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 31.692803
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200208, ...} took 11.659 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 43 quanta successfully, 0 failed and 71 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200214, ...} took 11.599 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200204, ...} took 11.763 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200202, ...} took 11.551 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 44 quanta successfully, 0 failed and 70 remain out of total 114 quanta.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000206/MC_C_20211212_000206_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 45 quanta successfully, 0 failed and 69 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200208, ...} took 11.514 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 46 quanta successfully, 0 failed and 68 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 47 quanta successfully, 0 failed and 67 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200206, ...} took 11.384 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 48 quanta successfully, 0 failed and 66 remain out of total 114 quanta.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200198, ...} took 12.006 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 49 quanta successfully, 0 failed and 65 remain out of total 114 quanta.
+lsst.isr INFO: Masking defects.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 2 cosmic rays.
+lsst.isr INFO: Set 75583 BAD pixels to 3.333301.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200200, ...} took 11.850 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 50 quanta successfully, 0 failed and 64 remain out of total 114 quanta.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000202/MC_C_20211212_000202_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000212/MC_C_20211212_000212_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.obs.lsst.assembly WARNING: /sdf/group/lsst/camera/IandT/rawData/focal-plane/20211212/MC_C_20211212_000210/MC_C_20211212_000210_R21_S02.fits: DETSEC doesn't match ((minimum=(0, 2002), maximum=(511, 4003)) != (minimum=(0, 0), maximum=(511, 2001)))
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.cpDark.repair INFO: Identified 9 cosmic rays.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr INFO: Converting exposure to floating point values.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200212, ...} took 5.194 seconds
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 51 quanta successfully, 0 failed and 63 remain out of total 114 quanta.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Assembling CCD from amplifiers.
+lsst.isr WARNING: No WCS found in input exposure.
+lsst.isr INFO: Applying bias correction.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 75583 BAD pixels to 1.725195.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Masking defects.
+lsst.isr INFO: Masking non-finite (NAN, inf) value pixels.
+lsst.isr INFO: Widening saturation trails.
+lsst.isr INFO: Set 75583 BAD pixels to 3.363379.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.isr INFO: Set 75583 BAD pixels to 3.363574.
+lsst.isr INFO: Interpolating masked pixels.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200206, ...} took 11.674 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 52 quanta successfully, 0 failed and 62 remain out of total 114 quanta.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 33.638181
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.isr WARNING: No rough magnitude zero point defined for filter unknown.
+lsst.isr INFO: Setting rough magnitude zero point for filter unknown: 34.390756
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200204, ...} took 8.448 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 53 quanta successfully, 0 failed and 61 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200210, ...} took 8.811 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 54 quanta successfully, 0 failed and 60 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200200, ...} took 6.075 seconds
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 55 quanta successfully, 0 failed and 59 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200206, ...} took 8.456 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200212, ...} took 7.450 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 56 quanta successfully, 0 failed and 58 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 57 quanta successfully, 0 failed and 57 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 7 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200202, ...} took 11.758 seconds
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 58 quanta successfully, 0 failed and 56 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200214, ...} took 5.834 seconds
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.cpDark.repair INFO: Identified 6 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 59 quanta successfully, 0 failed and 55 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200212, ...} took 12.239 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'isr' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200210, ...} took 12.035 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 60 quanta successfully, 0 failed and 54 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 61 quanta successfully, 0 failed and 53 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200212, ...} took 5.513 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 62 quanta successfully, 0 failed and 52 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200200, ...} took 5.504 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200208, ...} took 5.465 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 63 quanta successfully, 0 failed and 51 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200210, ...} took 5.711 seconds
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 64 quanta successfully, 0 failed and 50 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 65 quanta successfully, 0 failed and 49 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200198, ...} took 5.705 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 66 quanta successfully, 0 failed and 48 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200202, ...} took 6.303 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 67 quanta successfully, 0 failed and 47 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200206, ...} took 5.495 seconds
+lsst.cpDark.repair INFO: Identified 5 cosmic rays.
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 68 quanta successfully, 0 failed and 46 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021121200204, ...} took 5.417 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 69 quanta successfully, 0 failed and 45 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 2 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200202, ...} took 5.437 seconds
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 70 quanta successfully, 0 failed and 44 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200212, ...} took 5.977 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 71 quanta successfully, 0 failed and 43 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200214, ...} took 5.528 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 72 quanta successfully, 0 failed and 42 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.cpDark.repair INFO: Identified 7 cosmic rays.
+lsst.cpDark.repair INFO: Identified 6 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200208, ...} took 5.376 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200204, ...} took 5.654 seconds
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 73 quanta successfully, 0 failed and 41 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 1 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200212, ...} took 5.525 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 74 quanta successfully, 0 failed and 40 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 75 quanta successfully, 0 failed and 39 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200202, ...} took 5.395 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 76 quanta successfully, 0 failed and 38 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200210, ...} took 5.276 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 77 quanta successfully, 0 failed and 37 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200204, ...} took 5.342 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200200, ...} took 5.258 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 78 quanta successfully, 0 failed and 36 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 79 quanta successfully, 0 failed and 35 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 7 cosmic rays.
+lsst.cpDark.repair INFO: Identified 3 cosmic rays.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200198, ...} took 5.381 seconds
+lsst.cpDark.repair INFO: Identified 3 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 80 quanta successfully, 0 failed and 34 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200214, ...} took 5.440 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 31, exposure: 3021121200206, ...} took 5.614 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 81 quanta successfully, 0 failed and 33 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 82 quanta successfully, 0 failed and 32 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 12 cosmic rays.
+lsst.cpDark.repair INFO: Identified 3 cosmic rays.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200206, ...} took 5.540 seconds
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200198, ...} took 5.598 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200200, ...} took 5.518 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 83 quanta successfully, 0 failed and 31 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 84 quanta successfully, 0 failed and 30 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200214, ...} took 5.511 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 85 quanta successfully, 0 failed and 29 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 86 quanta successfully, 0 failed and 28 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200204, ...} took 5.603 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 87 quanta successfully, 0 failed and 27 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200208, ...} took 5.373 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200198, ...} took 5.282 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 88 quanta successfully, 0 failed and 26 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 89 quanta successfully, 0 failed and 25 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 8 cosmic rays.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 7 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200202, ...} took 5.478 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 90 quanta successfully, 0 failed and 24 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200214, ...} took 5.126 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 91 quanta successfully, 0 failed and 23 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021121200210, ...} took 5.231 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 92 quanta successfully, 0 failed and 22 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 2 cosmic rays.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200208, ...} took 5.539 seconds
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 93 quanta successfully, 0 failed and 21 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200200, ...} took 5.579 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 94 quanta successfully, 0 failed and 20 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200210, ...} took 5.689 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 95 quanta successfully, 0 failed and 19 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200208, ...} took 5.523 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200198, ...} took 6.169 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 96 quanta successfully, 0 failed and 18 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 97 quanta successfully, 0 failed and 17 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200214, ...} took 5.203 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 98 quanta successfully, 0 failed and 16 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 136, exposure: 3021121200204, ...} took 6.085 seconds
+lsst.cpDark.repair INFO: Identified 10 cosmic rays.
+lsst.cpDark.repair INFO: Identified 15 cosmic rays.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 99 quanta successfully, 0 failed and 15 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200202, ...} took 5.419 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 100 quanta successfully, 0 failed and 14 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200208, ...} took 5.465 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 101 quanta successfully, 0 failed and 13 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 3 cosmic rays.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021121200206, ...} took 5.668 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 102 quanta successfully, 0 failed and 12 remain out of total 114 quanta.
+lsst.cpDark.repair INFO: Identified 0 cosmic rays.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200198, ...} took 5.766 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200200, ...} took 5.587 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 103 quanta successfully, 0 failed and 11 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 104 quanta successfully, 0 failed and 10 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200206, ...} took 5.686 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 105 quanta successfully, 0 failed and 9 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200202, ...} took 5.558 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 106 quanta successfully, 0 failed and 8 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200212, ...} took 5.730 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 107 quanta successfully, 0 failed and 7 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDark' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021121200210, ...} took 5.590 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 108 quanta successfully, 0 failed and 6 remain out of total 114 quanta.
+lsst.cpDarkCombine INFO: Scaling input 0 by 30.086
+lsst.cpDarkCombine INFO: Scaling input 1 by 30.088
+lsst.cpDarkCombine INFO: Scaling input 2 by 180.089
+lsst.cpDarkCombine INFO: Scaling input 3 by 180.085
+lsst.cpDarkCombine INFO: Scaling input 4 by 360.085
+lsst.cpDarkCombine INFO: Scaling input 5 by 360.089
+lsst.cpDarkCombine INFO: Scaling input 6 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 7 by 360.087
+lsst.cpDarkCombine INFO: Scaling input 8 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 0 by 30.086
+lsst.cpDarkCombine INFO: Scaling input 1 by 30.088
+lsst.cpDarkCombine INFO: Scaling input 2 by 180.089
+lsst.cpDarkCombine INFO: Scaling input 3 by 180.085
+lsst.cpDarkCombine INFO: Scaling input 4 by 360.085
+lsst.cpDarkCombine INFO: Scaling input 5 by 360.089
+lsst.cpDarkCombine INFO: Scaling input 0 by 30.086
+lsst.cpDarkCombine INFO: Scaling input 6 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 1 by 30.088
+lsst.cpDarkCombine INFO: Scaling input 7 by 360.087
+lsst.cpDarkCombine INFO: Scaling input 2 by 180.089
+lsst.cpDarkCombine INFO: Scaling input 8 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 3 by 180.085
+lsst.cpDarkCombine INFO: Scaling input 4 by 360.085
+lsst.cpDarkCombine INFO: Scaling input 5 by 360.089
+lsst.cpDarkCombine INFO: Scaling input 6 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 7 by 360.087
+lsst.cpDarkCombine INFO: Scaling input 8 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 0 by 30.086
+lsst.cpDarkCombine INFO: Scaling input 1 by 30.088
+lsst.cpDarkCombine INFO: Scaling input 2 by 180.089
+lsst.cpDarkCombine INFO: Scaling input 3 by 180.085
+lsst.cpDarkCombine INFO: Scaling input 4 by 360.085
+lsst.cpDarkCombine INFO: Scaling input 5 by 360.089
+lsst.cpDarkCombine INFO: Scaling input 6 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 7 by 360.087
+lsst.cpDarkCombine INFO: Scaling input 8 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 0 by 30.086
+lsst.cpDarkCombine INFO: Scaling input 1 by 30.088
+lsst.cpDarkCombine INFO: Scaling input 2 by 180.089
+lsst.cpDarkCombine INFO: Scaling input 3 by 180.085
+lsst.cpDarkCombine INFO: Scaling input 4 by 360.085
+lsst.cpDarkCombine INFO: Scaling input 5 by 360.089
+lsst.cpDarkCombine INFO: Scaling input 6 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 7 by 360.087
+lsst.cpDarkCombine INFO: Scaling input 8 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 0 by 30.086
+lsst.cpDarkCombine INFO: Scaling input 1 by 30.088
+lsst.cpDarkCombine INFO: Scaling input 2 by 180.089
+lsst.cpDarkCombine INFO: Scaling input 3 by 180.085
+lsst.cpDarkCombine INFO: Scaling input 4 by 360.085
+lsst.cpDarkCombine INFO: Scaling input 5 by 360.089
+lsst.cpDarkCombine INFO: Scaling input 6 by 360.084
+lsst.cpDarkCombine INFO: Scaling input 7 by 360.087
+lsst.cpDarkCombine INFO: Scaling input 8 by 360.084
+lsst.cpDarkCombine WARNING: Found 16188707 NAN pixels
+lsst.cpDarkCombine WARNING: Exception making an obs group for headers. Continuing.
+lsst.cpDarkCombine WARNING: Found 16284309 NAN pixels
+lsst.cpDarkCombine WARNING: Found 16331245 NAN pixels
+lsst.cpDarkCombine WARNING: Exception making an obs group for headers. Continuing.
+lsst.cpDarkCombine WARNING: Exception making an obs group for headers. Continuing.
+lsst.cpDarkCombine WARNING: Found 16326638 NAN pixels
+lsst.cpDarkCombine WARNING: Exception making an obs group for headers. Continuing.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDarkCombine' on quantum {instrument: 'LSSTCam', detector: 31} took 28.770 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 109 quanta successfully, 0 failed and 5 remain out of total 114 quanta.
+lsst.cpDarkCombine WARNING: Found 16268237 NAN pixels
+lsst.cpDarkCombine WARNING: Exception making an obs group for headers. Continuing.
+lsst.cpDarkCombine WARNING: Found 16324801 NAN pixels
+lsst.cpDarkCombine WARNING: Exception making an obs group for headers. Continuing.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDarkCombine' on quantum {instrument: 'LSSTCam', detector: 23} took 31.633 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDarkCombine' on quantum {instrument: 'LSSTCam', detector: 112} took 32.263 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDarkCombine' on quantum {instrument: 'LSSTCam', detector: 136} took 31.137 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 111 quanta successfully, 0 failed and 3 remain out of total 114 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 112 quanta successfully, 0 failed and 2 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDarkCombine' on quantum {instrument: 'LSSTCam', detector: 9} took 29.072 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 113 quanta successfully, 0 failed and 1 remain out of total 114 quanta.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'cpDarkCombine' on quantum {instrument: 'LSSTCam', detector: 83} took 29.373 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 114 quanta successfully, 0 failed and 0 remain out of total 114 quanta.
