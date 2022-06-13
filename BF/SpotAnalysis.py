@@ -69,7 +69,7 @@ class Analyzer:
         subbutler = Butler(self.repo, collections=self.collection)
         subregistry = subbutler.registry
 
-        datasetRefs = list(subregistry.queryDatasets(datasetType="spotSrc", collections=self.collection))
+        datasetRefs = list(subregistry.queryDatasets(datasetType="gridSpotSrc", collections=self.collection))
 
         stamp = []
         exptimes = [0]
@@ -107,10 +107,10 @@ class Analyzer:
                     continue
 
 
-            src = subbutler.get("spotSrc",dataId=aref.dataId)
+            src = subbutler.get("gridSpotSrc",dataId=aref.dataId)
             mdsrc = src.getMetadata()
-            #x0 = mdsrc['GRID_X0']
-            #y0 = mdsrc['GRID_Y0']
+            x0 = mdsrc['GRID_X0']
+            y0 = mdsrc['GRID_Y0']
 
             # Flux cuts
             maxFlux = np.nanmax(src['base_SdssShape_instFlux'])
@@ -118,12 +118,12 @@ class Analyzer:
             src  = src.subset(select)
 
             # Initialize mask with NaN cuts
-            mask = (src['id'] >= 0)
+            mask = (src['spotgrid_index'] >= 0)
             
             # Get only points with a converged grid fit:
             if self.onlyConvergedGridFits:
-                ymask = (np.abs(src['base_SdssCentroid_y'] - src['slot_Centroid_y'])<2)
-                xmask = (np.abs(src['base_SdssCentroid_x'] - src['slot_Centroid_x'])<2)
+                ymask = (np.abs(src['base_SdssCentroid_y'] - src['spotgrid_y'])<2)
+                xmask = (np.abs(src['base_SdssCentroid_x'] - src['spotgrid_x'])<2)
                 mask = mask & xmask & ymask
 
             # Get only the circular spots (removes elliptical spots as well as spots w/ trail bleeding)
@@ -135,7 +135,7 @@ class Analyzer:
             # Center cuts
             if self.centerCutRadius > 0:
                 maxradius = self.centerCutRadius * np.mean([mdsrc["GRID_XSTEP"], mdsrc["GRID_YSTEP"]])
-                distances = np.sqrt((src["slot_Centroid_x"] - x0)**2 + (src["slot_Centroid_y"] - y0)**2)
+                distances = np.sqrt((src["spotgrid_x"] - x0)**2 + (src["spotgrid_y"] - y0)**2)
                 mask = mask & (distances <= maxradius)
 
 
@@ -155,7 +155,7 @@ class Analyzer:
             amps = []
             channels = []
             s = 15
-            for i,pt in enumerate(src["id"]):
+            for i,pt in enumerate(src["spotgrid_index"]):
                 x = int(src['base_SdssCentroid_y'][i]) # The coordinate systems are flipped
                 y = int(src['base_SdssCentroid_x'][i])
 
@@ -194,12 +194,16 @@ class Analyzer:
                     "SEQNUM": seqnum,
                     "TSEQNUM": tseqnum,
                     "MJD": time,
+                    "BOTX": botx,
+                    "BOTY": boty,
+                    "GRIDX": x0,
+                    "GRIDY": y0,
                     "numspots" : len(src),
-                    "spot_indices": src['id'][indxs],
+                    "spot_indices": src['spotgrid_index'][indxs],
                     "amps": np.asarray(amps)[indxs],
                     "channels": np.asarray(channels)[indxs],
-                    "spotgrid_x": src['slot_Centroid_x'][indxs],
-                    "spotgrid_y": src['slot_Centroid_y'][indxs],
+                    "spotgrid_x": src['spotgrid_x'][indxs],
+                    "spotgrid_y": src['spotgrid_y'][indxs],
                     "peakSignal": peakSignal[indxs],
                     "a": a,
                     "b": b,
@@ -278,7 +282,7 @@ class Analyzer:
 def removeBadExps(expstoremove, data):
     if expstoremove == 0:
         return data
-    
+
     unique_pos = np.unique(np.asarray(np.round(data['BOTX'],0)) / np.asarray(np.round(data['BOTY'],0)))
     if expstoremove > 0 :
         for pos in unique_pos:
