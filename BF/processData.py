@@ -33,10 +33,18 @@ run_sensor_dict = { '13230' : 'R02_S00',
                     '13236' : 'R21_S02',
                     '13238' : 'R21_S02',
                     '13239' : 'R24_S11',
-                    '13240' : 'R24_S11'}
+                    '13240' : 'R24_S11',
+                    '13249' : 'R03_S12',
+                    '13250' : 'R24_S11',
+                    '13247' : 'R03_S12',
+                    '13252' : 'R24_S11',
+                    '13248' : 'R03_S12',
+                    '13251' : 'R24_S11'}
 
 runnum = sys.argv[1]
-datatype = sys.argv[2]
+suffix = sys.argv[2]
+datatype = sys.argv[3]
+
 sensor = run_sensor_dict[runnum]
 col = "u/abrought/BF/run_" + runnum + "/" + sensor + "/" + datatype
 
@@ -49,7 +57,7 @@ analyzer.onlyConvergedGridFits = True
 #analyzer.ellipticityRangeCut = (-1.0, 1.0)
 
 table = analyzer.getData()
-end = "_" + datatype
-filename = analyzer.saveData(suffix=end)
+end = "_" + suffix + "_" + datatype
+filename = analyzer.saveData(outdir="/sdf/home/a/abrought/run5/BF/data/newdata/", suffix=end)
 
 print("Finished! :)")

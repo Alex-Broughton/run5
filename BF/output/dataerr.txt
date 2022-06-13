@@ -106,199 +106,21 @@ WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked
 
 WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
 
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
 Traceback (most recent call last):
-  File "processData.py", line 40, in <module>
-    sensor = run_sensor_dict[runnum]
-KeyError: '13235'
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-Traceback (most recent call last):
-  File "processData.py", line 40, in <module>
-    sensor = run_sensor_dict[runnum]
-KeyError: '13235'
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-Traceback (most recent call last):
-  File "processData.py", line 40, in <module>
-    sensor = run_sensor_dict[runnum]
-KeyError: '13235'
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-Traceback (most recent call last):
-  File "processData.py", line 40, in <module>
-    sensor = run_sensor_dict[runnum]
-KeyError: '13235'
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
+  File "processData.py", line 59, in <module>
+    table = analyzer.getData()
+  File "/sdf/home/a/abrought/run5/BF/SpotAnalysis.py", line 72, in getData
+    datasetRefs = list(subregistry.queryDatasets(datasetType="spotSrc", collections=self.collection))
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_14/conda/envs/lsst-scipipe-3.0.0-ext/share/eups/Linux64/daf_butler/g8243fdef33+f83c363f3e/python/lsst/daf/butler/registries/sql.py", line 1008, in queryDatasets
+    parentResults = self.queryDatasets(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_14/conda/envs/lsst-scipipe-3.0.0-ext/share/eups/Linux64/daf_butler/g8243fdef33+f83c363f3e/python/lsst/daf/butler/registries/sql.py", line 1047, in queryDatasets
+    builder.joinDataset(datasetType, collections, isResult=True, findFirst=findFirst)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_14/conda/envs/lsst-scipipe-3.0.0-ext/share/eups/Linux64/daf_butler/g8243fdef33+f83c363f3e/python/lsst/daf/butler/registry/queries/_builder.py", line 198, in joinDataset
+    for rank, collectionRecord in enumerate(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_14/conda/envs/lsst-scipipe-3.0.0-ext/share/eups/Linux64/daf_butler/g8243fdef33+f83c363f3e/python/lsst/daf/butler/registry/wildcards.py", line 673, in iter
+    yield from self._search.iter(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_14/conda/envs/lsst-scipipe-3.0.0-ext/share/eups/Linux64/daf_butler/g8243fdef33+f83c363f3e/python/lsst/daf/butler/registry/wildcards.py", line 507, in iter
+    manager.find(name),
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_14/conda/envs/lsst-scipipe-3.0.0-ext/share/eups/Linux64/daf_butler/g8243fdef33+f83c363f3e/python/lsst/daf/butler/registry/collections/_base.py", line 448, in find
+    raise MissingCollectionError(f"No collection with name '{name}' found.")
+lsst.daf.butler.registry._exceptions.MissingCollectionError: No collection with name 'u/abrought/BF/run_13238/R21_S02/corrected' found.
