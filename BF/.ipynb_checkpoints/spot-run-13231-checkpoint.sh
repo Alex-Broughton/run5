@@ -1,9 +1,9 @@
 #!/bin/bash
   
 #SBATCH --partition=rubin
-#SBATCH --job-name=spot
-#SBATCH --output=/sdf/home/a/abrought/run5/BF/output/spotout.txt
-#SBATCH --error=/sdf/home/a/abrought/run5/BF/output/spoterr.txt
+#SBATCH --job-name=spot-run-13231
+#SBATCH --output=/sdf/home/a/abrought/run5/BF/output/spotout-run-13231.txt
+#SBATCH --error=/sdf/home/a/abrought/run5/BF/output/spoterr-run-13231.txt
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=25
 #SBATCH --mem-per-cpu=16G
@@ -54,26 +54,26 @@ export bfks_experimental=u/abrought/BF/run_13144/bfks_experimental_nozerosum
 # Run the IsrTask + MIXCOATL tasks
 pipetask run \
         -j 25 \
-        -d "instrument='LSSTCam' AND detector in ( 112 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13250')" \
+        -d "instrument='LSSTCam' AND detector in ( 9 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13231')" \
         -b ${REPO}/butler.yaml \
         -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs},${bfks} \
-        -o u/abrought/BF/run_13250/R24_S11/corrected \
+        -o u/abrought/BF/run_13231/R02_S00/corrected \
         -p ${YAML}/gridFit.yaml \
         --register-dataset-types
  
-cp ${YAML}/gridFit.yaml ${REPO}/u/abrought/BF/run_13250/R24_S11/corrected
+cp ${YAML}/gridFit.yaml ${REPO}/u/abrought/BF/run_13231/R02_S00/corrected
 
 
 pipetask run \
         -j 25 \
-        -d "instrument='LSSTCam' AND detector in ( 112 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13250')" \
+        -d "instrument='LSSTCam' AND detector in ( 9 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13231')" \
         -b ${REPO}/butler.yaml \
         -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs},${bfks} \
-        -o u/abrought/BF/run_13250/R24_S11/uncorrected \
+        -o u/abrought/BF/run_13231/R02_S00/uncorrected \
         -p ${YAML}/gridFit2.yaml \
         --register-dataset-types
  
-cp ${YAML}/gridFit2.yaml ${REPO}/u/abrought/BF/run_13250/R24_S11/uncorrected
+cp ${YAML}/gridFit2.yaml ${REPO}/u/abrought/BF/run_13231/R02_S00/uncorrected
 
 
 # END
