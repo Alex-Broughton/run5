@@ -64,16 +64,16 @@ pipetask run \
 cp ${YAML}/gridFit.yaml ${REPO}/u/abrought/BF/run_13238/R21_S02/corrected
 
 
-pipetask run \
-        -j 25 \
-        -d "instrument='LSSTCam' AND detector in ( 83 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13238')" \
-        -b ${REPO}/butler.yaml \
-        -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs},${bfks} \
-        -o u/abrought/BF/run_13238/R21_S02/uncorrected \
-        -p ${YAML}/gridFit2.yaml \
-        --register-dataset-types
+##pipetask run \
+##        -j 25 \
+##        -d "instrument='LSSTCam' AND detector in ( 83 ) AND exposure.observation_type='spot' AND exposure.science_program IN ('13238')" \
+##        -b ${REPO}/butler.yaml \
+##        -i LSSTCam/raw/all,LSSTCam/calib,${sbias},${sdark},${sflat},${defects},${ptcs},${bfks} \
+##        -o u/abrought/BF/run_13238/R21_S02/uncorrected \
+##        -p ${YAML}/gridFit2.yaml \
+##        --register-dataset-types
  
-cp ${YAML}/gridFit2.yaml ${REPO}/u/abrought/BF/run_13238/R21_S02/uncorrected
+##cp ${YAML}/gridFit2.yaml ${REPO}/u/abrought/BF/run_13238/R21_S02/uncorrected
 
 
 # END

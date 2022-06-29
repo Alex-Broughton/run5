@@ -7,6 +7,16 @@ WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked
 
 WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
 
+Traceback (most recent call last):
+  File "processData.py", line 59, in <module>
+    table = analyzer.getData()
+  File "/sdf/home/a/abrought/run5/BF/SpotAnalysis.py", line 250, in getData
+    t_sorted = t[np.argsort(t['exptime'])]
+  File "/sdf/home/a/abrought/.local/lib/python3.8/site-packages/astropy/table/table.py", line 1867, in __getitem__
+    return self.columns[item]
+  File "/sdf/home/a/abrought/.local/lib/python3.8/site-packages/astropy/table/table.py", line 246, in __getitem__
+    return OrderedDict.__getitem__(self, item)
+KeyError: 'exptime'
 
 WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
 
@@ -16,6 +26,16 @@ WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked
 
 WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
 
+Traceback (most recent call last):
+  File "processData.py", line 59, in <module>
+    table = analyzer.getData()
+  File "/sdf/home/a/abrought/run5/BF/SpotAnalysis.py", line 250, in getData
+    t_sorted = t[np.argsort(t['exptime'])]
+  File "/sdf/home/a/abrought/.local/lib/python3.8/site-packages/astropy/table/table.py", line 1867, in __getitem__
+    return self.columns[item]
+  File "/sdf/home/a/abrought/.local/lib/python3.8/site-packages/astropy/table/table.py", line 246, in __getitem__
+    return OrderedDict.__getitem__(self, item)
+KeyError: 'exptime'
 
 WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
 
@@ -25,102 +45,4 @@ WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked
 
 WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
 
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
-
-WARNING: version mismatch between CFITSIO header (v4.000999999999999) and linked library (v4.01).
-
+slurmstepd: error: *** JOB 3857231 ON rome0053 CANCELLED AT 2022-06-21T14:31:38 ***

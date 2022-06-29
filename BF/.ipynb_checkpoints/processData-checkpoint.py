@@ -58,6 +58,6 @@ analyzer.onlyConvergedGridFits = True
 
 table = analyzer.getData()
 end = "_" + suffix + "_" + datatype
-filename = analyzer.saveData(outdir="/sdf/home/a/abrought/run5/BF/data/newdata/", suffix=end)
+filename = analyzer.saveData(outdir="/sdf/home/a/abrought/run5/BF/data/new/", suffix=end)
 
 print("Finished! :)")
