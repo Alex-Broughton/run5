@@ -1,0 +1,4 @@
+Reading config file ./config/flat_with_sed.yaml
+Overriding default configuration file with /cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2022_32/conda/envs/lsst-scipipe-4.1.0-ext/share/eups/Linux64/dustmaps_cachedata/g41a3ec361e+c9b10be330/config/.dustmapsrc
+Reading TreeRing file /sdf/home/a/abrought/imSim/imsim/data/tree_ring_data/tree_ring_parameters_2018-04-26.txt
+Start file 0 = flats/flat_eimage_00001-y-R22_S11-det094.fits

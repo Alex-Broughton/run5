@@ -1,0 +1,47 @@
+description: mixcoatl SPOT gridfit
+tasks:
+  isr:
+    class: lsst.ip.isr.isrTask.IsrTask
+    config:
+      connections.ccdExposure: 'raw'
+      connections.bias: 'bias'
+      connections.newBFKernel: 'bfk'
+      connections.outputExposure: 'postISRCCD'
+      doWrite: true
+      doOverscan: true
+      doAssembleCcd: true
+      doBias: true
+      doVariance: true
+      doLinearize: true
+      doCrosstalk: false
+      doBrighterFatter: true
+      brighterFatterThreshold: 10
+      doDark: true
+      doStrayLight: false
+      doFlat: false
+      doFringe: false
+      doApplyGains: false
+      usePtcGains: true
+      brighterFatterApplyGain: true
+      doFluxConservingBrighterFatterCorrection: False
+      doDefect: true
+      doNanMasking: true
+      doInterpolate: false
+      doSaturation: false
+      doSaturationInterpolation: false
+      growSaturationFootprintSize: 0
+      doDeferredCharge: true
+      brighterFatterMaxIter: 10
+  characterizeSpots:
+    class: mixcoatl.characterizeSpots.CharacterizeSpotsTask
+    config:
+      connections.exposure: 'postISRCCD'
+      connections.sourceCat: 'spotSrc'
+  gridFit:
+    class: mixcoatl.gridFitTask.GridFitTask
+    config:
+      connections.inputCat: 'spotSrc'
+      connections.bbox: 'postISRCCD.bbox'
+      connections.gridSourceCat: 'gridSpotSrc'
+      #distanceFromVertex: 2
+      #useBOTCoordinates: True

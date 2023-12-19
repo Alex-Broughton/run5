@@ -1,0 +1,24 @@
+Traceback (most recent call last):
+  File "/sdf/home/a/abrought/run5/BF/processData.py", line 26, in <module>
+    from SpotAnalysis import Analyzer
+  File "/sdf/home/a/abrought/bin/SpotAnalysis.py", line 21, in <module>
+    sigma_clip = SigmaClip(sigma=6.)
+NameError: name 'SigmaClip' is not defined
+Traceback (most recent call last):
+  File "/sdf/home/a/abrought/run5/BF/processData.py", line 26, in <module>
+    from SpotAnalysis import Analyzer
+  File "/sdf/home/a/abrought/bin/SpotAnalysis.py", line 21, in <module>
+    sigma_clip = SigmaClip(sigma=6.)
+NameError: name 'SigmaClip' is not defined
+Traceback (most recent call last):
+  File "/sdf/home/a/abrought/run5/BF/processData.py", line 26, in <module>
+    from SpotAnalysis import Analyzer
+  File "/sdf/home/a/abrought/bin/SpotAnalysis.py", line 21, in <module>
+    sigma_clip = SigmaClip(sigma=6.)
+NameError: name 'SigmaClip' is not defined
+Traceback (most recent call last):
+  File "/sdf/home/a/abrought/run5/BF/processData.py", line 26, in <module>
+    from SpotAnalysis import Analyzer
+  File "/sdf/home/a/abrought/bin/SpotAnalysis.py", line 21, in <module>
+    sigma_clip = SigmaClip(sigma=6.)
+NameError: name 'SigmaClip' is not defined

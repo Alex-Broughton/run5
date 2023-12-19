@@ -1,0 +1,688 @@
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542587.6832144-2444290'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 15546.743107  Var: 14744.224678  Q(0,0): 29744  Q(1,0): 51.9029  Q(0,1): 170.489
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.79165e-06  XcorrCheck: 0.065945
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.2964103955523084e-18, inError: 1.3955162463070827e-18
+lsst.bfkSolve INFO: Amp: C10 Sum: -2.69866e-05  Center Info Pre: -2.9134e-06  Post: 3.73673e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 15560.693849  Var: 14778.438760  Q(0,0): 29755  Q(1,0): 80.1408  Q(0,1): 174.209
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.82155e-06  XcorrCheck: 0.071097
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.6549435602572927e-18, inError: 1.790536287823443e-18
+lsst.bfkSolve INFO: Amp: C11 Sum: -3.4969e-05  Center Info Pre: -2.97895e-06  Post: 4.54315e-06
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 15644.741502  Var: 15035.651034  Q(0,0): 29920.3  Q(1,0): 128.804  Q(0,1): 170.778
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.79706e-06  XcorrCheck: 0.081706
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 1.9225265622508465e-18, inError: 1.932876881083376e-18
+lsst.bfkSolve INFO: Amp: C12 Sum: -3.75633e-05  Center Info Pre: -2.96628e-06  Post: 4.7365e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 15634.233077  Var: 14973.620297  Q(0,0): 29867.4  Q(1,0): 106.777  Q(0,1): 176.364
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.86594e-06  XcorrCheck: 0.074855
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.5814899218625838e-18, inError: 1.7629587905407505e-18
+lsst.bfkSolve INFO: Amp: C13 Sum: -3.41745e-05  Center Info Pre: -3.01995e-06  Post: 4.44591e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 15274.705981  Var: 14618.356873  Q(0,0): 29213.5  Q(1,0): 64.6732  Q(0,1): 164.326
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.86295e-06  XcorrCheck: 0.057419
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.4633817652798123e-18, inError: 1.5815072105386587e-18
+lsst.bfkSolve INFO: Amp: C14 Sum: -3.07742e-05  Center Info Pre: -3.00133e-06  Post: 4.14494e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 14970.802744  Var: 14235.740935  Q(0,0): 28688.7  Q(1,0): 63.2363  Q(0,1): 156.737
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.7951e-06  XcorrCheck: 0.026895
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 1.5828928201814738e-18, inError: 1.612718678882569e-18
+lsst.bfkSolve INFO: Amp: C15 Sum: -3.14142e-05  Center Info Pre: -2.93546e-06  Post: 4.18343e-06
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 14988.183272  Var: 14430.974273  Q(0,0): 28685.5  Q(1,0): 64.2159  Q(0,1): 159.12
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.87301e-06  XcorrCheck: 0.032048
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.4656316965459566e-18, inError: 1.5461338138313025e-18
+lsst.bfkSolve INFO: Amp: C16 Sum: -3.00084e-05  Center Info Pre: -3.00727e-06  Post: 4.06982e-06
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 14692.077807  Var: 14077.789538  Q(0,0): 28077.6  Q(1,0): 66.6271  Q(0,1): 156.828
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 3.02641e-06  XcorrCheck: 0.014677
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 2.1299172854301416e-18, inError: 2.301829511205112e-18
+lsst.bfkSolve INFO: Amp: C17 Sum: -4.53888e-05  Center Info Pre: -3.22772e-06  Post: 5.6925e-06
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 14576.090003  Var: 14025.819860  Q(0,0): 27928.4  Q(1,0): 47.8617  Q(0,1): 152.269
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.87988e-06  XcorrCheck: 0.037007
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 1.4546996775704557e-18, inError: 1.492119126684506e-18
+lsst.bfkSolve INFO: Amp: C07 Sum: -2.89273e-05  Center Info Pre: -3.00946e-06  Post: 3.9759e-06
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 14551.690241  Var: 13971.028363  Q(0,0): 27961.6  Q(1,0): 66.6289  Q(0,1): 155.033
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.69594e-06  XcorrCheck: 0.067775
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.4945366958710096e-18, inError: 1.6911355119479523e-18
+lsst.bfkSolve INFO: Amp: C06 Sum: -3.2914e-05  Center Info Pre: -2.84405e-06  Post: 4.26551e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 14489.010661  Var: 13858.051124  Q(0,0): 27799.3  Q(1,0): 57.5799  Q(0,1): 152.692
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.80741e-06  XcorrCheck: 0.082458
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 1.508300981263892e-18, inError: 1.523710658209947e-18
+lsst.bfkSolve INFO: Amp: C05 Sum: -2.95401e-05  Center Info Pre: -2.94105e-06  Post: 3.99143e-06
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 14490.984069  Var: 13925.033957  Q(0,0): 27874.3  Q(1,0): 59.6017  Q(0,1): 155.493
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.63756e-06  XcorrCheck: 0.028928
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.6535406619384027e-18, inError: 1.829659438823987e-18
+lsst.bfkSolve INFO: Amp: C04 Sum: -3.57508e-05  Center Info Pre: -2.7972e-06  Post: 4.53124e-06
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 14416.855215  Var: 13798.495126  Q(0,0): 27667.8  Q(1,0): 58.9869  Q(0,1): 149.559
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.80473e-06  XcorrCheck: 0.033185
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.385692962148832e-18, inError: 1.5431245923768957e-18
+lsst.bfkSolve INFO: Amp: C03 Sum: -2.9927e-05  Center Info Pre: -2.93863e-06  Post: 4.03048e-06
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 14744.311625  Var: 14255.426642  Q(0,0): 28255.2  Q(1,0): 64.0417  Q(0,1): 171.682
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.8368e-06  XcorrCheck: 0.057485
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.4764313666234489e-18, inError: 1.5922595678843114e-18
+lsst.bfkSolve INFO: Amp: C02 Sum: -3.07839e-05  Center Info Pre: -2.97522e-06  Post: 4.11976e-06
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 14699.324455  Var: 14183.475797  Q(0,0): 28222.7  Q(1,0): 63.64  Q(0,1): 157.975
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.72132e-06  XcorrCheck: 0.023157
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.4329944582970643e-18, inError: 1.5579135787742448e-18
+lsst.bfkSolve INFO: Amp: C01 Sum: -3.0185e-05  Center Info Pre: -2.85608e-06  Post: 4.01776e-06
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 14686.128918  Var: 14089.275745  Q(0,0): 28137.2  Q(1,0): 54.7816  Q(0,1): 154.423
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.86314e-06  XcorrCheck: 0.058260
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 132 iterations.
+outError: 1.364120091773449e-18, inError: 1.517039121923952e-18
+lsst.bfkSolve INFO: Amp: C00 Sum: -2.94387e-05  Center Info Pre: -2.9956e-06  Post: 4.02508e-06
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.492 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542625.47785-2444357'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 30945.501067  Var: 28220.854617  Q(0,0): 56550.2  Q(1,0): 207.465  Q(0,1): 646.093
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.78859e-06  XcorrCheck: 0.022811
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.136300109459164e-19, inError: 4.662020702565218e-19
+lsst.bfkSolve INFO: Amp: C10 Sum: -6.78188e-06  Center Info Pre: -2.81932e-06  Post: 1.70706e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 31652.190896  Var: 28794.230905  Q(0,0): 57637.5  Q(1,0): 300.368  Q(0,1): 684.074
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.8282e-06  XcorrCheck: 0.039483
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 5.231619589377381e-19, inError: 5.360564564474612e-19
+lsst.bfkSolve INFO: Amp: C11 Sum: -8.32397e-06  Center Info Pre: -2.86624e-06  Post: 1.87043e-06
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 31823.507470  Var: 28874.997100  Q(0,0): 57926  Q(1,0): 442.571  Q(0,1): 678.682
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.82453e-06  XcorrCheck: 0.039195
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 5.512927172094415e-19, inError: 5.760687784436315e-19
+lsst.bfkSolve INFO: Amp: C12 Sum: -8.9697e-06  Center Info Pre: -2.86543e-06  Post: 1.8948e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 31116.968778  Var: 28322.711981  Q(0,0): 56692.1  Q(1,0): 356.344  Q(0,1): 666.73
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.86175e-06  XcorrCheck: 0.033758
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 5.178150634581953e-19, inError: 5.552956168664446e-19
+lsst.bfkSolve INFO: Amp: C13 Sum: -8.54637e-06  Center Info Pre: -2.90063e-06  Post: 1.88331e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 30365.626935  Var: 27743.899310  Q(0,0): 55485.2  Q(1,0): 234.482  Q(0,1): 624.205
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.84472e-06  XcorrCheck: 0.016332
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 5.026081750770205e-19, inError: 5.09354499094034e-19
+lsst.bfkSolve INFO: Amp: C14 Sum: -7.78234e-06  Center Info Pre: -2.87973e-06  Post: 1.83069e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 30469.166792  Var: 27579.501623  Q(0,0): 55739.6  Q(1,0): 236.984  Q(0,1): 627.074
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.79993e-06  XcorrCheck: 0.003859
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.753509195321731e-19, inError: 5.013753031632414e-19
+lsst.bfkSolve INFO: Amp: C15 Sum: -7.60155e-06  Center Info Pre: -2.83381e-06  Post: 1.79356e-06
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 30504.024583  Var: 27856.352728  Q(0,0): 55700.6  Q(1,0): 241.735  Q(0,1): 630.283
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.85196e-06  XcorrCheck: 0.006682
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.754700335403807e-19, inError: 4.884592056926039e-19
+lsst.bfkSolve INFO: Amp: C16 Sum: -7.25392e-06  Center Info Pre: -2.88438e-06  Post: 1.77904e-06
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 29787.936132  Var: 27172.234651  Q(0,0): 54254.2  Q(1,0): 240.691  Q(0,1): 606.294
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 2.99872e-06  XcorrCheck: 0.041998
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 6.002948966970828e-19, inError: 6.637054917517956e-19
+lsst.bfkSolve INFO: Amp: C17 Sum: -1.12673e-05  Center Info Pre: -3.04769e-06  Post: 2.2531e-06
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 28941.989740  Var: 26541.761961  Q(0,0): 53074.1  Q(1,0): 183.973  Q(0,1): 576.177
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.87107e-06  XcorrCheck: 0.004257
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.848601878540827e-19, inError: 4.901150438672866e-19
+lsst.bfkSolve INFO: Amp: C07 Sum: -7.37028e-06  Center Info Pre: -2.90394e-06  Post: 1.8071e-06
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 28893.573764  Var: 26279.301277  Q(0,0): 53215.9  Q(1,0): 234.539  Q(0,1): 587.095
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.73783e-06  XcorrCheck: 0.027262
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 5.11727014149805e-19, inError: 5.360285998144457e-19
+lsst.bfkSolve INFO: Amp: C06 Sum: -8.2969e-06  Center Info Pre: -2.77539e-06  Post: 1.81693e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 28767.524002  Var: 26457.673809  Q(0,0): 52885.3  Q(1,0): 204.082  Q(0,1): 577.18
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.80931e-06  XcorrCheck: 0.040246
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.613351712330746e-19, inError: 4.9408134989085675e-19
+lsst.bfkSolve INFO: Amp: C05 Sum: -7.38589e-06  Center Info Pre: -2.84321e-06  Post: 1.76924e-06
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 28772.314636  Var: 26480.284925  Q(0,0): 53080.4  Q(1,0): 216.266  Q(0,1): 586.812
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.69627e-06  XcorrCheck: 0.008927
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 5.006626462762957e-19, inError: 5.654188491946491e-19
+lsst.bfkSolve INFO: Amp: C04 Sum: -9.06134e-06  Center Info Pre: -2.73676e-06  Post: 1.88016e-06
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 29233.316294  Var: 26912.939800  Q(0,0): 53676  Q(1,0): 218.586  Q(0,1): 589.032
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.80288e-06  XcorrCheck: 0.002477
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.639953840830451e-19, inError: 4.880735687519208e-19
+lsst.bfkSolve INFO: Amp: C03 Sum: -7.34153e-06  Center Info Pre: -2.83545e-06  Post: 1.76327e-06
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 29222.094933  Var: 26848.959078  Q(0,0): 53617.7  Q(1,0): 228.082  Q(0,1): 629.723
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.82605e-06  XcorrCheck: 0.027626
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.944025434004944e-19, inError: 5.13199558604456e-19
+lsst.bfkSolve INFO: Amp: C02 Sum: -7.76562e-06  Center Info Pre: -2.86129e-06  Post: 1.80634e-06
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 29131.409411  Var: 26697.489172  Q(0,0): 53599.2  Q(1,0): 225.189  Q(0,1): 597.901
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.74771e-06  XcorrCheck: 0.003387
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.834506720902923e-19, inError: 5.069542129898519e-19
+lsst.bfkSolve INFO: Amp: C01 Sum: -7.73902e-06  Center Info Pre: -2.78202e-06  Post: 1.77741e-06
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 29107.588577  Var: 26648.035052  Q(0,0): 53395.3  Q(1,0): 206.873  Q(0,1): 583.749
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.84443e-06  XcorrCheck: 0.020446
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 131 iterations.
+outError: 4.682636360438188e-19, inError: 4.907254405041066e-19
+lsst.bfkSolve INFO: Amp: C00 Sum: -7.46717e-06  Center Info Pre: -2.87815e-06  Post: 1.80696e-06
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.726 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542662.3827243-2444993'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 46219.946083  Var: 40424.860942  Q(0,0): 80828.6  Q(1,0): 475.015  Q(0,1): 1380.12
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.71765e-06  XcorrCheck: 0.005672
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 2.745180842491984e-19, inError: 3.1109537666690235e-19
+lsst.bfkSolve INFO: Amp: C10 Sum: -3.13009e-06  Center Info Pre: -2.73142e-06  Post: 1.31777e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 47373.408255  Var: 41054.789261  Q(0,0): 82417.1  Q(1,0): 610.579  Q(0,1): 1459.04
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.74697e-06  XcorrCheck: 0.028516
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.08829536057898e-19, inError: 3.344136991205592e-19
+lsst.bfkSolve INFO: Amp: C11 Sum: -3.65893e-06  Center Info Pre: -2.76395e-06  Post: 1.37821e-06
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 47632.242027  Var: 41194.109875  Q(0,0): 82761.3  Q(1,0): 823.723  Q(0,1): 1461.17
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.75542e-06  XcorrCheck: 0.018106
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.2118430568699e-19, inError: 3.545139409837511e-19
+lsst.bfkSolve INFO: Amp: C12 Sum: -4.00565e-06  Center Info Pre: -2.77368e-06  Post: 1.39388e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 46479.586381  Var: 40391.255455  Q(0,0): 80973  Q(1,0): 672.678  Q(0,1): 1421.71
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.77412e-06  XcorrCheck: 0.010758
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.3048181577208604e-19, inError: 3.492362457911069e-19
+lsst.bfkSolve INFO: Amp: C13 Sum: -3.86014e-06  Center Info Pre: -2.79155e-06  Post: 1.39626e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 46464.850745  Var: 40447.360447  Q(0,0): 81075.8  Q(1,0): 503.819  Q(0,1): 1402.79
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.74525e-06  XcorrCheck: 0.014427
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.125253790347849e-19, inError: 3.227497599533796e-19
+lsst.bfkSolve INFO: Amp: C14 Sum: -3.44326e-06  Center Info Pre: -2.76021e-06  Post: 1.36402e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 45519.270479  Var: 39729.286306  Q(0,0): 79742  Q(1,0): 493.197  Q(0,1): 1352.93
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.72601e-06  XcorrCheck: 0.003532
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 2.9355316450526867e-19, inError: 3.2307543730751133e-19
+lsst.bfkSolve INFO: Amp: C15 Sum: -3.39645e-06  Center Info Pre: -2.74119e-06  Post: 1.347e-06
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 45570.439408  Var: 39982.070883  Q(0,0): 79680  Q(1,0): 499.017  Q(0,1): 1348.68
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.75945e-06  XcorrCheck: 0.000891
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 2.890466845280798e-19, inError: 3.1830306149430916e-19
+lsst.bfkSolve INFO: Amp: C16 Sum: -3.27289e-06  Center Info Pre: -2.77398e-06  Post: 1.35063e-06
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 44696.973567  Var: 38826.463909  Q(0,0): 77943.3  Q(1,0): 477.92  Q(0,1): 1292.72
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 2.86578e-06  XcorrCheck: 0.042722
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.894267062226148e-19, inError: 3.911091507015607e-19
+lsst.bfkSolve INFO: Amp: C17 Sum: -5.13145e-06  Center Info Pre: -2.88753e-06  Post: 1.59182e-06
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 43336.360298  Var: 38315.929275  Q(0,0): 76192  Q(1,0): 412.399  Q(0,1): 1241.42
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.79033e-06  XcorrCheck: 0.010963
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.0295159062509617e-19, inError: 3.2143314023145716e-19
+lsst.bfkSolve INFO: Amp: C07 Sum: -3.35936e-06  Center Info Pre: -2.80499e-06  Post: 1.37678e-06
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 43263.452921  Var: 38076.840441  Q(0,0): 76447.4  Q(1,0): 471.576  Q(0,1): 1264.41
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.69258e-06  XcorrCheck: 0.005379
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.1898069653514874e-19, inError: 3.377555478201676e-19
+lsst.bfkSolve INFO: Amp: C06 Sum: -3.74075e-06  Center Info Pre: -2.70933e-06  Post: 1.35565e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 43073.838424  Var: 38077.868048  Q(0,0): 75994.9  Q(1,0): 426.34  Q(0,1): 1242.04
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.73607e-06  XcorrCheck: 0.013969
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 2.853144456042405e-19, inError: 3.2241323605534165e-19
+lsst.bfkSolve INFO: Amp: C05 Sum: -3.32377e-06  Center Info Pre: -2.75119e-06  Post: 1.33831e-06
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 43081.241408  Var: 38308.401015  Q(0,0): 76288.6  Q(1,0): 448.559  Q(0,1): 1258.03
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.65999e-06  XcorrCheck: 0.009865
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.0903467684981114e-19, inError: 3.4496249302493993e-19
+lsst.bfkSolve INFO: Amp: C04 Sum: -4.01049e-06  Center Info Pre: -2.67805e-06  Post: 1.37203e-06
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 43859.345975  Var: 38298.135504  Q(0,0): 77232.2  Q(1,0): 452.936  Q(0,1): 1270.95
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.72568e-06  XcorrCheck: 0.019082
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.070560608245843e-19, inError: 3.2295819959909884e-19
+lsst.bfkSolve INFO: Amp: C03 Sum: -3.35851e-06  Center Info Pre: -2.74015e-06  Post: 1.34014e-06
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 43842.983802  Var: 38699.676815  Q(0,0): 77155.9  Q(1,0): 473.155  Q(0,1): 1327.62
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.73905e-06  XcorrCheck: 0.014894
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 3.0644063844884484e-19, inError: 3.274272397297416e-19
+lsst.bfkSolve INFO: Amp: C02 Sum: -3.43918e-06  Center Info Pre: -2.75471e-06  Post: 1.34518e-06
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 43709.018090  Var: 38560.897714  Q(0,0): 77120  Q(1,0): 461.281  Q(0,1): 1296.92
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.69514e-06  XcorrCheck: 0.011930
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 2.9859565751939193e-19, inError: 3.2630914682187184e-19
+lsst.bfkSolve INFO: Amp: C01 Sum: -3.4934e-06  Center Info Pre: -2.71038e-06  Post: 1.33931e-06
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 43675.181479  Var: 38302.780667  Q(0,0): 76847.5  Q(1,0): 453.468  Q(0,1): 1266.56
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.75301e-06  XcorrCheck: 0.003326
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 2.9706702774739393e-19, inError: 3.192196010493559e-19
+lsst.bfkSolve INFO: Amp: C00 Sum: -3.38819e-06  Center Info Pre: -2.76799e-06  Post: 1.36299e-06
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.667 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542699.7292566-2445240'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 61493.784908  Var: 51524.315965  Q(0,0): 103013  Q(1,0): 857.763  Q(0,1): 2341.68
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.64115e-06  XcorrCheck: 0.033986
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.4229774502903287e-19, inError: 2.6538213761326954e-19
+lsst.bfkSolve INFO: Amp: C10 Sum: -1.92693e-06  Center Info Pre: -2.64893e-06  Post: 1.17274e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 63011.519646  Var: 52442.346878  Q(0,0): 104898  Q(1,0): 983.881  Q(0,1): 2463.26
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.66028e-06  XcorrCheck: 0.020097
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.62469371446751e-19, inError: 2.7206639518479957e-19
+lsst.bfkSolve INFO: Amp: C11 Sum: -2.05007e-06  Center Info Pre: -2.66988e-06  Post: 1.19101e-06
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 63355.652801  Var: 52770.069246  Q(0,0): 105207  Q(1,0): 1203.2  Q(0,1): 2482.73
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.67875e-06  XcorrCheck: 0.001626
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.5619768804237394e-19, inError: 2.8014457158966496e-19
+lsst.bfkSolve INFO: Amp: C12 Sum: -2.33043e-06  Center Info Pre: -2.68907e-06  Post: 1.21953e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 61837.704396  Var: 51416.229042  Q(0,0): 103165  Q(1,0): 1005.16  Q(0,1): 2408.28
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.68192e-06  XcorrCheck: 0.011092
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.531487003045035e-19, inError: 2.806524647191595e-19
+lsst.bfkSolve INFO: Amp: C13 Sum: -2.27421e-06  Center Info Pre: -2.69177e-06  Post: 1.21818e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 61818.681483  Var: 52057.441836  Q(0,0): 103402  Q(1,0): 823.814  Q(0,1): 2392.36
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.64758e-06  XcorrCheck: 0.044299
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.6887009502668633e-19, inError: 2.6943338506297362e-19
+lsst.bfkSolve INFO: Amp: C14 Sum: -2.12841e-06  Center Info Pre: -2.65603e-06  Post: 1.20153e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 60607.079650  Var: 51041.695209  Q(0,0): 101777  Q(1,0): 821.011  Q(0,1): 2319.28
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.64578e-06  XcorrCheck: 0.006856
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.4906739116216685e-19, inError: 2.6403832188294303e-19
+lsst.bfkSolve INFO: Amp: C15 Sum: -1.8901e-06  Center Info Pre: -2.65434e-06  Post: 1.16935e-06
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 60674.751297  Var: 51113.775164  Q(0,0): 101735  Q(1,0): 822.633  Q(0,1): 2296.79
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.66394e-06  XcorrCheck: 0.006332
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.444930823747486e-19, inError: 2.650321496616568e-19
+lsst.bfkSolve INFO: Amp: C16 Sum: -1.87723e-06  Center Info Pre: -2.67214e-06  Post: 1.18058e-06
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 59371.083073  Var: 49572.437095  Q(0,0): 99463  Q(1,0): 750.678  Q(0,1): 2176.77
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 2.73469e-06  XcorrCheck: 0.038807
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 130 iterations.
+outError: 2.708817982764153e-19, inError: 2.99395679411076e-19
+lsst.bfkSolve INFO: Amp: C17 Sum: -2.9797e-06  Center Info Pre: -2.74702e-06  Post: 1.33083e-06
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 57547.136998  Var: 48815.763256  Q(0,0): 97173.8  Q(1,0): 726.537  Q(0,1): 2108.13
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.70565e-06  XcorrCheck: 0.023789
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.5100464815676604e-19, inError: 2.693727408043538e-19
+lsst.bfkSolve INFO: Amp: C07 Sum: -1.99755e-06  Center Info Pre: -2.71396e-06  Post: 1.21123e-06
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 57449.456593  Var: 48791.776809  Q(0,0): 97490.5  Q(1,0): 746.394  Q(0,1): 2142.07
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.63728e-06  XcorrCheck: 0.014398
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.4267824811080726e-19, inError: 2.7311957799495574e-19
+lsst.bfkSolve INFO: Amp: C06 Sum: -2.21348e-06  Center Info Pre: -2.64678e-06  Post: 1.19495e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 57199.223207  Var: 48740.954494  Q(0,0): 97007.9  Q(1,0): 706.149  Q(0,1): 2106.07
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.65769e-06  XcorrCheck: 0.011875
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.4911867636014513e-19, inError: 2.7262239605635194e-19
+lsst.bfkSolve INFO: Amp: C05 Sum: -1.99252e-06  Center Info Pre: -2.66626e-06  Post: 1.1797e-06
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 58565.674929  Var: 49904.706729  Q(0,0): 99248.8  Q(1,0): 762.36  Q(0,1): 2214.16
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.60683e-06  XcorrCheck: 0.014269
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.3546688753056996e-19, inError: 2.674137112163844e-19
+lsst.bfkSolve INFO: Amp: C04 Sum: -2.12306e-06  Center Info Pre: -2.6166e-06  Post: 1.17658e-06
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 58261.221500  Var: 49679.357337  Q(0,0): 98569.7  Q(1,0): 741.56  Q(0,1): 2153.96
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.64448e-06  XcorrCheck: 0.033270
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.555508328033575e-19, inError: 2.691113518163727e-19
+lsst.bfkSolve INFO: Amp: C03 Sum: -2.01761e-06  Center Info Pre: -2.65268e-06  Post: 1.18089e-06
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 58238.692964  Var: 49551.576929  Q(0,0): 98506.5  Q(1,0): 775.377  Q(0,1): 2204.91
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.64922e-06  XcorrCheck: 0.004255
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.473038420962038e-19, inError: 2.7041149212284835e-19
+lsst.bfkSolve INFO: Amp: C02 Sum: -1.97335e-06  Center Info Pre: -2.65809e-06  Post: 1.16994e-06
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 58057.526350  Var: 49252.367916  Q(0,0): 98356.1  Q(1,0): 743.809  Q(0,1): 2206.01
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.63433e-06  XcorrCheck: 0.017762
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.587867633596649e-19, inError: 2.6684962991298536e-19
+lsst.bfkSolve INFO: Amp: C01 Sum: -2.0364e-06  Center Info Pre: -2.64297e-06  Post: 1.17813e-06
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 59464.101833  Var: 50392.649615  Q(0,0): 100187  Q(1,0): 818.615  Q(0,1): 2260.97
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.65013e-06  XcorrCheck: 0.028386
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.558833594096038e-19, inError: 2.6371196493858736e-19
+lsst.bfkSolve INFO: Amp: C00 Sum: -1.96606e-06  Center Info Pre: -2.65821e-06  Post: 1.18209e-06
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.673 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542736.4291303-2445723'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 78050.067797  Var: 62361.160659  Q(0,0): 124901  Q(1,0): 1398.52  Q(0,1): 3608.3
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.56077e-06  XcorrCheck: 0.065329
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.29859430158073e-19, inError: 2.452719169548956e-19
+lsst.bfkSolve INFO: Amp: C10 Sum: -1.41345e-06  Center Info Pre: -2.5656e-06  Post: 1.09598e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 78110.885908  Var: 62232.728047  Q(0,0): 124738  Q(1,0): 1388.7  Q(0,1): 3625.91
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.58006e-06  XcorrCheck: 0.012467
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.393546364095692e-19, inError: 2.486730848858708e-19
+lsst.bfkSolve INFO: Amp: C11 Sum: -1.33933e-06  Center Info Pre: -2.58631e-06  Post: 1.09571e-06
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 78540.236444  Var: 62570.256409  Q(0,0): 124918  Q(1,0): 1529.83  Q(0,1): 3666.23
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.60695e-06  XcorrCheck: 0.021536
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.252379720757392e-19, inError: 2.504182930949035e-19
+lsst.bfkSolve INFO: Amp: C12 Sum: -1.62173e-06  Center Info Pre: -2.61366e-06  Post: 1.142e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 78481.746856  Var: 62211.886729  Q(0,0): 125083  Q(1,0): 1348.67  Q(0,1): 3705.44
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.58798e-06  XcorrCheck: 0.035431
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.4123233640006457e-19, inError: 2.490469560233662e-19
+lsst.bfkSolve INFO: Amp: C13 Sum: -1.55638e-06  Center Info Pre: -2.59409e-06  Post: 1.12657e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 76542.188832  Var: 61722.593800  Q(0,0): 123092  Q(1,0): 1173.98  Q(0,1): 3546.54
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.55961e-06  XcorrCheck: 0.073789
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.459480930722294e-19, inError: 2.476380247385078e-19
+lsst.bfkSolve INFO: Amp: C14 Sum: -1.60397e-06  Center Info Pre: -2.56512e-06  Post: 1.12137e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 75056.568361  Var: 60480.388192  Q(0,0): 121143  Q(1,0): 1191.68  Q(0,1): 3446.19
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.57122e-06  XcorrCheck: 0.011283
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1819039325678743e-19, inError: 2.464785264294903e-19
+lsst.bfkSolve INFO: Amp: C15 Sum: -1.19694e-06  Center Info Pre: -2.57681e-06  Post: 1.07517e-06
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 75140.911603  Var: 60531.338920  Q(0,0): 121175  Q(1,0): 1182.97  Q(0,1): 3397.44
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.57756e-06  XcorrCheck: 0.011115
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.3442794868120336e-19, inError: 2.4535086149537924e-19
+lsst.bfkSolve INFO: Amp: C16 Sum: -1.25949e-06  Center Info Pre: -2.5829e-06  Post: 1.09122e-06
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 73482.497116  Var: 58907.352224  Q(0,0): 118672  Q(1,0): 1040.53  Q(0,1): 3211.99
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 2.61986e-06  XcorrCheck: 0.033431
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 129 iterations.
+outError: 2.5522161491956137e-19, inError: 2.59186389368981e-19
+lsst.bfkSolve INFO: Amp: C17 Sum: -1.98244e-06  Center Info Pre: -2.62791e-06  Post: 1.1905e-06
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 72905.346662  Var: 58767.839174  Q(0,0): 117982  Q(1,0): 1159.7  Q(0,1): 3255.39
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.61784e-06  XcorrCheck: 0.037021
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.190059933407647e-19, inError: 2.4752107953107183e-19
+lsst.bfkSolve INFO: Amp: C07 Sum: -1.3567e-06  Center Info Pre: -2.62302e-06  Post: 1.11699e-06
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 72785.450230  Var: 59083.708860  Q(0,0): 118275  Q(1,0): 1065.65  Q(0,1): 3291.36
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.57623e-06  XcorrCheck: 0.035490
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.304194314327714e-19, inError: 2.47239101953678e-19
+lsst.bfkSolve INFO: Amp: C06 Sum: -1.51336e-06  Center Info Pre: -2.58215e-06  Post: 1.11593e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 72468.114750  Var: 58910.630767  Q(0,0): 117883  Q(1,0): 1063.78  Q(0,1): 3245.82
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.57572e-06  XcorrCheck: 0.040891
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.5022957992280385e-19, inError: 2.5197640678697845e-19
+lsst.bfkSolve INFO: Amp: C05 Sum: -1.41091e-06  Center Info Pre: -2.58106e-06  Post: 1.0951e-06
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 72480.475014  Var: 59034.078822  Q(0,0): 118097  Q(1,0): 1083.18  Q(0,1): 3245.15
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.55685e-06  XcorrCheck: 0.018899
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1632096507241759e-19, inError: 2.440494278907445e-19
+lsst.bfkSolve INFO: Amp: C04 Sum: -1.33592e-06  Center Info Pre: -2.56323e-06  Post: 1.091e-06
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 72104.577724  Var: 58763.184519  Q(0,0): 117494  Q(1,0): 1063.22  Q(0,1): 3178.66
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.56921e-06  XcorrCheck: 0.046331
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1975045589206244e-19, inError: 2.47792588901958e-19
+lsst.bfkSolve INFO: Amp: C03 Sum: -1.43836e-06  Center Info Pre: -2.57456e-06  Post: 1.09981e-06
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 73921.036164  Var: 59952.665557  Q(0,0): 119901  Q(1,0): 1160.9  Q(0,1): 3343.85
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.55672e-06  XcorrCheck: 0.006934
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.2670787202424595e-19, inError: 2.4801278986423746e-19
+lsst.bfkSolve INFO: Amp: C02 Sum: -1.27509e-06  Center Info Pre: -2.56222e-06  Post: 1.0705e-06
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 73696.548730  Var: 59807.529153  Q(0,0): 119502  Q(1,0): 1090.29  Q(0,1): 3415.66
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.56764e-06  XcorrCheck: 0.023355
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1549626600170222e-19, inError: 2.424331913901576e-19
+lsst.bfkSolve INFO: Amp: C01 Sum: -1.32564e-06  Center Info Pre: -2.573e-06  Post: 1.08997e-06
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 73642.942255  Var: 59679.901348  Q(0,0): 119487  Q(1,0): 1227.09  Q(0,1): 3360.34
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.56288e-06  XcorrCheck: 0.051175
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.228209503258593e-19, inError: 2.4771693901701467e-19
+lsst.bfkSolve INFO: Amp: C00 Sum: -1.44367e-06  Center Info Pre: -2.56815e-06  Post: 1.09733e-06
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.666 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542773.6622195-2446414'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 92021.157824  Var: 70852.451536  Q(0,0): 141758  Q(1,0): 1947.94  Q(0,1): 4837.74
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.49674e-06  XcorrCheck: 0.092201
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.285789545698409e-19, inError: 2.377814137960355e-19
+lsst.bfkSolve INFO: Amp: C10 Sum: -1.23251e-06  Center Info Pre: -2.50022e-06  Post: 1.05795e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 94405.526353  Var: 72081.915924  Q(0,0): 144252  Q(1,0): 1866.25  Q(0,1): 5070.7
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.49985e-06  XcorrCheck: 0.004523
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.1437957217475563e-19, inError: 2.4218180955401746e-19
+lsst.bfkSolve INFO: Amp: C11 Sum: -9.38709e-07  Center Info Pre: -2.50412e-06  Post: 1.03133e-06
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 94916.173553  Var: 72142.530001  Q(0,0): 144162  Q(1,0): 1823.78  Q(0,1): 5123.68
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.53468e-06  XcorrCheck: 0.044366
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.131809874671663e-19, inError: 2.347315611798678e-19
+lsst.bfkSolve INFO: Amp: C12 Sum: -1.25449e-06  Center Info Pre: -2.53928e-06  Post: 1.09862e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 92534.042197  Var: 70703.445268  Q(0,0): 141986  Q(1,0): 1616.82  Q(0,1): 4964.34
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.5157e-06  XcorrCheck: 0.056720
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.176171570922882e-19, inError: 2.373333190152813e-19
+lsst.bfkSolve INFO: Amp: C13 Sum: -1.27037e-06  Center Info Pre: -2.5201e-06  Post: 1.08276e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 92502.635799  Var: 71023.623403  Q(0,0): 142688  Q(1,0): 1591.11  Q(0,1): 5007.8
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.47275e-06  XcorrCheck: 0.106105
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.2249752270635104e-19, inError: 2.3641692914500743e-19
+lsst.bfkSolve INFO: Amp: C14 Sum: -1.35658e-06  Center Info Pre: -2.47652e-06  Post: 1.06933e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 90680.343933  Var: 70220.453535  Q(0,0): 140322  Q(1,0): 1648.83  Q(0,1): 4864.27
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.49536e-06  XcorrCheck: 0.016761
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.1600746362025999e-19, inError: 2.437092832318009e-19
+lsst.bfkSolve INFO: Amp: C15 Sum: -7.73613e-07  Center Info Pre: -2.49918e-06  Post: 1.00758e-06
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 90787.731920  Var: 70389.275436  Q(0,0): 140498  Q(1,0): 1621.82  Q(0,1): 4783.2
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.49186e-06  XcorrCheck: 0.016222
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.1575269199159366e-19, inError: 2.386354058713037e-19
+lsst.bfkSolve INFO: Amp: C16 Sum: -9.05213e-07  Center Info Pre: -2.49552e-06  Post: 1.02818e-06
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 88976.191700  Var: 68458.657472  Q(0,0): 138214  Q(1,0): 1394.19  Q(0,1): 4563.08
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 2.50974e-06  XcorrCheck: 0.026936
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.28112424704361e-19, inError: 2.375763211589659e-19
+lsst.bfkSolve INFO: Amp: C17 Sum: -1.36916e-06  Center Info Pre: -2.51523e-06  Post: 1.08916e-06
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 86195.670431  Var: 67132.597677  Q(0,0): 134547  Q(1,0): 1606.03  Q(0,1): 4409.86
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.54686e-06  XcorrCheck: 0.048370
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.408460430540023e-19, inError: 2.4107858301760624e-19
+lsst.bfkSolve INFO: Amp: C07 Sum: -1.07736e-06  Center Info Pre: -2.55057e-06  Post: 1.06471e-06
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 86050.070500  Var: 67653.058247  Q(0,0): 134714  Q(1,0): 1346.89  Q(0,1): 4428.17
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.52452e-06  XcorrCheck: 0.053478
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.343253782852468e-19, inError: 2.406585400998143e-19
+lsst.bfkSolve INFO: Amp: C06 Sum: -1.22296e-06  Center Info Pre: -2.52875e-06  Post: 1.07923e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 85673.280018  Var: 67194.768046  Q(0,0): 134513  Q(1,0): 1412.01  Q(0,1): 4386.9
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.5091e-06  XcorrCheck: 0.066462
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.202550360657198e-19, inError: 2.4474298934448235e-19
+lsst.bfkSolve INFO: Amp: C05 Sum: -1.19178e-06  Center Info Pre: -2.51292e-06  Post: 1.05175e-06
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 87764.195744  Var: 68755.782685  Q(0,0): 136981  Q(1,0): 1463.2  Q(0,1): 4532.85
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.50227e-06  XcorrCheck: 0.024114
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.1702737731553787e-19, inError: 2.3996626647294237e-19
+lsst.bfkSolve INFO: Amp: C04 Sum: -8.52839e-07  Center Info Pre: -2.50662e-06  Post: 1.03483e-06
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 87307.255221  Var: 68353.819801  Q(0,0): 136626  Q(1,0): 1461.29  Q(0,1): 4483.2
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.49184e-06  XcorrCheck: 0.060294
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1465006023506047e-19, inError: 2.400803277865072e-19
+lsst.bfkSolve INFO: Amp: C03 Sum: -1.11931e-06  Center Info Pre: -2.4955e-06  Post: 1.04412e-06
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 87275.099178  Var: 68371.265302  Q(0,0): 136704  Q(1,0): 1531.18  Q(0,1): 4451.74
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.48436e-06  XcorrCheck: 0.016374
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.1818956607617487e-19, inError: 2.4213300737451717e-19
+lsst.bfkSolve INFO: Amp: C02 Sum: -9.72271e-07  Center Info Pre: -2.48831e-06  Post: 1.01678e-06
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 87006.809570  Var: 68181.010557  Q(0,0): 135974  Q(1,0): 1407.65  Q(0,1): 4602.26
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.51249e-06  XcorrCheck: 0.027922
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.3398623423410004e-19, inError: 2.360717836146344e-19
+lsst.bfkSolve INFO: Amp: C01 Sum: -1.00642e-06  Center Info Pre: -2.51634e-06  Post: 1.04375e-06
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 88979.442799  Var: 69243.032886  Q(0,0): 138749  Q(1,0): 1748.58  Q(0,1): 4755.12
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.47621e-06  XcorrCheck: 0.075919
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.2515277247264626e-19, inError: 2.4015621323022813e-19
+lsst.bfkSolve INFO: Amp: C00 Sum: -1.18573e-06  Center Info Pre: -2.47982e-06  Post: 1.03923e-06
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.648 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542811.014698-2446476'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 108785.939282  Var: 80517.324319  Q(0,0): 160170  Q(1,0): 2701.82  Q(0,1): 6487.01
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.42523e-06  XcorrCheck: 0.125454
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.2240570565835766e-19, inError: 2.328491177357173e-19
+lsst.bfkSolve INFO: Amp: C10 Sum: -1.15634e-06  Center Info Pre: -2.42772e-06  Post: 1.0284e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 108879.289744  Var: 80334.620707  Q(0,0): 160029  Q(1,0): 2327.73  Q(0,1): 6507.29
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.43488e-06  XcorrCheck: 0.002316
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.160794283335521e-19, inError: 2.3974476705313877e-19
+lsst.bfkSolve INFO: Amp: C11 Sum: -7.35091e-07  Center Info Pre: -2.43809e-06  Post: 9.91111e-07
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 109471.972307  Var: 80087.690838  Q(0,0): 159605  Q(1,0): 2047.31  Q(0,1): 6547.61
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.47575e-06  XcorrCheck: 0.066251
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.0376684491570028e-19, inError: 2.274176164035846e-19
+lsst.bfkSolve INFO: Amp: C12 Sum: -1.09474e-06  Center Info Pre: -2.4792e-06  Post: 1.07737e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 109390.028069  Var: 80201.517449  Q(0,0): 160423  Q(1,0): 1926.54  Q(0,1): 6653.28
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.43843e-06  XcorrCheck: 0.083424
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.0198592505687362e-19, inError: 2.2916850451285813e-19
+lsst.bfkSolve INFO: Amp: C13 Sum: -1.10646e-06  Center Info Pre: -2.44158e-06  Post: 1.05018e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 106749.378215  Var: 78914.405606  Q(0,0): 158725  Q(1,0): 1992.38  Q(0,1): 6487.88
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.40334e-06  XcorrCheck: 0.135266
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1112089415160298e-19, inError: 2.3148118850700643e-19
+lsst.bfkSolve INFO: Amp: C14 Sum: -1.27014e-06  Center Info Pre: -2.40618e-06  Post: 1.03885e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 104629.833428  Var: 78055.276493  Q(0,0): 156001  Q(1,0): 2105.38  Q(0,1): 6289.11
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.43246e-06  XcorrCheck: 0.022077
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 126 iterations.
+outError: 2.241920021911659e-19, inError: 2.433700125766801e-19
+lsst.bfkSolve INFO: Amp: C15 Sum: -5.32967e-07  Center Info Pre: -2.43533e-06  Post: 9.62545e-07
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 104749.461910  Var: 77988.198983  Q(0,0): 156331  Q(1,0): 2056.17  Q(0,1): 6182.56
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.42281e-06  XcorrCheck: 0.020858
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.2055282108623888e-19, inError: 2.3652472182898793e-19
+lsst.bfkSolve INFO: Amp: C16 Sum: -7.21784e-07  Center Info Pre: -2.42556e-06  Post: 9.87304e-07
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 105068.523791  Var: 77348.601801  Q(0,0): 156832  Q(1,0): 1823.02  Q(0,1): 6229.95
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 2.4143e-06  XcorrCheck: 0.020037
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 1.9908169392619994e-19, inError: 2.2648173674037226e-19
+lsst.bfkSolve INFO: Amp: C17 Sum: -9.82518e-07  Center Info Pre: -2.41824e-06  Post: 1.01427e-06
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 101681.018393  Var: 76052.306203  Q(0,0): 152271  Q(1,0): 2197.96  Q(0,1): 5932.15
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.47078e-06  XcorrCheck: 0.061598
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.186254902589903e-19, inError: 2.3578948906180053e-19
+lsst.bfkSolve INFO: Amp: C07 Sum: -9.01091e-07  Center Info Pre: -2.47345e-06  Post: 1.02097e-06
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 101513.788739  Var: 76167.105848  Q(0,0): 152195  Q(1,0): 1671.53  Q(0,1): 5892.36
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.46639e-06  XcorrCheck: 0.074746
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.177925193821494e-19, inError: 2.369658608522585e-19
+lsst.bfkSolve INFO: Amp: C06 Sum: -1.05572e-06  Center Info Pre: -2.46943e-06  Post: 1.05391e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 101069.764331  Var: 76472.824707  Q(0,0): 152347  Q(1,0): 1858.24  Q(0,1): 5884.16
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.43722e-06  XcorrCheck: 0.096812
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.4062849455290086e-19, inError: 2.4099103856013375e-19
+lsst.bfkSolve INFO: Amp: C05 Sum: -1.09039e-06  Center Info Pre: -2.43996e-06  Post: 1.01846e-06
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 101087.517976  Var: 76000.748830  Q(0,0): 151987  Q(1,0): 1809.08  Q(0,1): 5764.67
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.45572e-06  XcorrCheck: 0.028540
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 126 iterations.
+outError: 2.3705921020973454e-19, inError: 2.421403788741868e-19
+lsst.bfkSolve INFO: Amp: C04 Sum: -5.89194e-07  Center Info Pre: -2.459e-06  Post: 1.0015e-06
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 100562.231321  Var: 75680.231741  Q(0,0): 151986  Q(1,0): 1847.42  Q(0,1): 5762.05
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.42955e-06  XcorrCheck: 0.072433
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.2528181264820453e-19, inError: 2.3709507045240373e-19
+lsst.bfkSolve INFO: Amp: C03 Sum: -9.70872e-07  Center Info Pre: -2.4323e-06  Post: 1.01007e-06
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 103053.866774  Var: 77620.417782  Q(0,0): 154976  Q(1,0): 2020.35  Q(0,1): 5924.71
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.4073e-06  XcorrCheck: 0.027519
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.16218394676461e-19, inError: 2.389337023035843e-19
+lsst.bfkSolve INFO: Amp: C02 Sum: -7.74713e-07  Center Info Pre: -2.41014e-06  Post: 9.71621e-07
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 102737.995799  Var: 77061.577407  Q(0,0): 153756  Q(1,0): 1804.76  Q(0,1): 6165.69
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.45002e-06  XcorrCheck: 0.033437
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.3072631544002856e-19, inError: 2.3355978284904377e-19
+lsst.bfkSolve INFO: Amp: C01 Sum: -7.87084e-07  Center Info Pre: -2.45278e-06  Post: 1.00541e-06
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 102663.206672  Var: 77150.841294  Q(0,0): 154604  Q(1,0): 2279.09  Q(0,1): 6173.47
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.40627e-06  XcorrCheck: 0.098455
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1484775640146064e-19, inError: 2.3612156142307593e-19
+lsst.bfkSolve INFO: Amp: C00 Sum: -1.0842e-06  Center Info Pre: -2.40898e-06  Post: 1.00289e-06
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.689 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1690542848.4155443-2447106'
+Quanta  Tasks  
+------ --------
+     1 bfkSolve
+lsst.bfkSolve INFO: Amp: C10 1/1 Flux: 125422.673464  Var: 87323.415164  Q(0,0): 176585  Q(1,0): 3524.97  Q(0,1): 8296.43
+lsst.bfkSolve INFO: Amp: C10 1/1  Final: 2.36034e-06  XcorrCheck: 0.160164
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.2633812229043475e-19, inError: 2.278973529095358e-19
+lsst.bfkSolve INFO: Amp: C10 Sum: -1.16061e-06  Center Info Pre: -2.36221e-06  Post: 1.00928e-06
+lsst.bfkSolve INFO: Amp: C11 1/1 Flux: 125513.415754  Var: 82215.520038  Q(0,0): 176421  Q(1,0): 2914.44  Q(0,1): 8330.15
+lsst.bfkSolve INFO: Amp: C11 1/1  Final: 2.36788e-06  XcorrCheck: 0.010016
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 126 iterations.
+outError: 2.115870104267766e-19, inError: 2.3594952202656427e-19
+lsst.bfkSolve INFO: Amp: C11 Sum: -5.93851e-07  Center Info Pre: -2.3703e-06  Post: 9.56265e-07
+lsst.bfkSolve INFO: Amp: C12 1/1 Flux: 126219.984717  Var: 69192.680260  Q(0,0): 175506  Q(1,0): 2307.27  Q(0,1): 8301.75
+lsst.bfkSolve INFO: Amp: C12 1/1  Final: 2.41452e-06  XcorrCheck: 0.093432
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 1.9797037677323494e-19, inError: 2.2046460043954597e-19
+lsst.bfkSolve INFO: Amp: C12 Sum: -1.0144e-06  Center Info Pre: -2.41712e-06  Post: 1.06408e-06
+lsst.bfkSolve INFO: Amp: C13 1/1 Flux: 126120.923184  Var: 62099.404439  Q(0,0): 176772  Q(1,0): 2264.16  Q(0,1): 8510.19
+lsst.bfkSolve INFO: Amp: C13 1/1  Final: 2.37231e-06  XcorrCheck: 0.111884
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.2035429773922615e-19, inError: 2.216130238733147e-19
+lsst.bfkSolve INFO: Amp: C13 Sum: -1.04566e-06  Center Info Pre: -2.37467e-06  Post: 1.03034e-06
+lsst.bfkSolve INFO: Amp: C14 1/1 Flux: 123061.428255  Var: 57823.716155  Q(0,0): 175441  Q(1,0): 2486.26  Q(0,1): 8382.05
+lsst.bfkSolve INFO: Amp: C14 1/1  Final: 2.33363e-06  XcorrCheck: 0.170222
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.079259090356169e-19, inError: 2.2572791181584936e-19
+lsst.bfkSolve INFO: Amp: C14 Sum: -1.25228e-06  Center Info Pre: -2.33576e-06  Post: 1.01509e-06
+lsst.bfkSolve INFO: Amp: C15 1/1 Flux: 120635.593014  Var: 57698.311320  Q(0,0): 172400  Q(1,0): 2689.24  Q(0,1): 8091.63
+lsst.bfkSolve INFO: Amp: C15 1/1  Final: 2.36624e-06  XcorrCheck: 0.028555
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 125 iterations.
+outError: 2.322065551461922e-19, inError: 2.4286161251802697e-19
+lsst.bfkSolve INFO: Amp: C15 Sum: -3.41003e-07  Center Info Pre: -2.3684e-06  Post: 9.21204e-07
+lsst.bfkSolve INFO: Amp: C16 1/1 Flux: 120784.564799  Var: 66902.065114  Q(0,0): 172929  Q(1,0): 2610.74  Q(0,1): 7976.11
+lsst.bfkSolve INFO: Amp: C16 1/1  Final: 2.35248e-06  XcorrCheck: 0.026396
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 126 iterations.
+outError: 2.2068020690057204e-19, inError: 2.3386986450646033e-19
+lsst.bfkSolve INFO: Amp: C16 Sum: -5.93203e-07  Center Info Pre: -2.35455e-06  Post: 9.51084e-07
+lsst.bfkSolve INFO: Amp: C17 1/1 Flux: 118222.399973  Var: 66350.661657  Q(0,0): 170727  Q(1,0): 2249.08  Q(0,1): 7825.37
+lsst.bfkSolve INFO: Amp: C17 1/1  Final: 2.35102e-06  XcorrCheck: 0.014432
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 1.9894975861849773e-19, inError: 2.2151854419941175e-19
+lsst.bfkSolve INFO: Amp: C17 Sum: -7.67739e-07  Center Info Pre: -2.35413e-06  Post: 9.67309e-07
+lsst.bfkSolve INFO: Amp: C07 1/1 Flux: 114659.104787  Var: 83101.654047  Q(0,0): 165878  Q(1,0): 2741.87  Q(0,1): 7349.84
+lsst.bfkSolve INFO: Amp: C07 1/1  Final: 2.41277e-06  XcorrCheck: 0.072787
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.0803799200861784e-19, inError: 2.325357384286247e-19
+lsst.bfkSolve INFO: Amp: C07 Sum: -8.20221e-07  Center Info Pre: -2.41486e-06  Post: 9.92914e-07
+lsst.bfkSolve INFO: Amp: C06 1/1 Flux: 114467.198110  Var: 83752.612319  Q(0,0): 165523  Q(1,0): 1938.94  Q(0,1): 7213.56
+lsst.bfkSolve INFO: Amp: C06 1/1  Final: 2.41977e-06  XcorrCheck: 0.093152
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.1529112520978907e-19, inError: 2.3385572397837153e-19
+lsst.bfkSolve INFO: Amp: C06 Sum: -9.92614e-07  Center Info Pre: -2.42217e-06  Post: 1.04075e-06
+lsst.bfkSolve INFO: Amp: C05 1/1 Flux: 113966.222916  Var: 83204.420142  Q(0,0): 166054  Q(1,0): 2263.72  Q(0,1): 7268.76
+lsst.bfkSolve INFO: Amp: C05 1/1  Final: 2.38207e-06  XcorrCheck: 0.122721
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.3347751815737993e-19, inError: 2.379591443684052e-19
+lsst.bfkSolve INFO: Amp: C05 Sum: -1.07457e-06  Center Info Pre: -2.38423e-06  Post: 9.99079e-07
+lsst.bfkSolve INFO: Amp: C04 1/1 Flux: 116606.700594  Var: 84846.592252  Q(0,0): 167863  Q(1,0): 2221.78  Q(0,1): 7302.88
+lsst.bfkSolve INFO: Amp: C04 1/1  Final: 2.40308e-06  XcorrCheck: 0.033557
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 126 iterations.
+outError: 2.293606402487035e-19, inError: 2.441807597272999e-19
+lsst.bfkSolve INFO: Amp: C04 Sum: -3.80787e-07  Center Info Pre: -2.40555e-06  Post: 9.72495e-07
+lsst.bfkSolve INFO: Amp: C03 1/1 Flux: 116000.958832  Var: 84351.199967  Q(0,0): 168398  Q(1,0): 2350.21  Q(0,1): 7409.19
+lsst.bfkSolve INFO: Amp: C03 1/1  Final: 2.36338e-06  XcorrCheck: 0.086792
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.1644959165766958e-19, inError: 2.344249302080953e-19
+lsst.bfkSolve INFO: Amp: C03 Sum: -8.78071e-07  Center Info Pre: -2.36545e-06  Post: 9.80317e-07
+lsst.bfkSolve INFO: Amp: C02 1/1 Flux: 115957.044430  Var: 84158.106805  Q(0,0): 168682  Q(1,0): 2468.61  Q(0,1): 7272.94
+lsst.bfkSolve INFO: Amp: C02 1/1  Final: 2.35134e-06  XcorrCheck: 0.036759
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 126 iterations.
+outError: 2.244107914631862e-19, inError: 2.360086226521929e-19
+lsst.bfkSolve INFO: Amp: C02 Sum: -6.83361e-07  Center Info Pre: -2.35358e-06  Post: 9.4362e-07
+lsst.bfkSolve INFO: Amp: C01 1/1 Flux: 115599.545067  Var: 83960.160764  Q(0,0): 167018  Q(1,0): 2148.49  Q(0,1): 7556.34
+lsst.bfkSolve INFO: Amp: C01 1/1  Final: 2.40139e-06  XcorrCheck: 0.038201
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 127 iterations.
+outError: 2.0638900745749338e-19, inError: 2.3275230931251435e-19
+lsst.bfkSolve INFO: Amp: C01 Sum: -6.77655e-07  Center Info Pre: -2.40357e-06  Post: 9.81489e-07
+lsst.bfkSolve INFO: Amp: C00 1/1 Flux: 118379.368676  Var: 85198.326678  Q(0,0): 171319  Q(1,0): 2959.2  Q(0,1): 8003.43
+lsst.bfkSolve INFO: Amp: C00 1/1  Final: 2.33485e-06  XcorrCheck: 0.124916
+lsst.bfkSolve INFO: Success: SuccessiveOverRelaxation converged in 128 iterations.
+outError: 2.0446084944963227e-19, inError: 2.3171981083523665e-19
+lsst.bfkSolve INFO: Amp: C00 Sum: -1.04592e-06  Center Info Pre: -2.33689e-06  Post: 9.72143e-07
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} took 1.660 seconds
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 1 quanta successfully, 0 failed and 0 remain out of total 1 quanta.

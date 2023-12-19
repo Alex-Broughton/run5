@@ -1,0 +1,372 @@
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 1 quanta for 1 tasks, graph ID: '1643485323.6273313-121285'
+lsst.bfkSolve INFO: Amp: C10 1/319 Flux: 39.133821  Var: 82.029260  Q(0,0): 164.058  Q(1,0): 15.1956  Q(0,1): 15.2908
+lsst.bfkSolve WARNING: Amp: C10 1 skipped due to value of (variance-mean)=85.790716
+lsst.bfkSolve INFO: Amp: C10 2/319 Flux: 46.132467  Var: 82.239821  Q(0,0): 164.479  Q(1,0): 1.33919  Q(0,1): 0.777245
+lsst.bfkSolve WARNING: Amp: C10 2 skipped due to value of (variance-mean)=72.214547
+lsst.bfkSolve INFO: Amp: C10 3/319 Flux: 56.489247  Var: 96.621705  Q(0,0): 193.243  Q(1,0): 11.8984  Q(0,1): 11.2255
+lsst.bfkSolve WARNING: Amp: C10 3 skipped due to value of (variance-mean)=80.264725
+lsst.bfkSolve INFO: Amp: C10 4/319 Flux: 66.184002  Var: 100.742526  Q(0,0): 201.485  Q(1,0): 1.37725  Q(0,1): 0.425945
+lsst.bfkSolve WARNING: Amp: C10 4 skipped due to value of (variance-mean)=69.116848
+lsst.bfkSolve INFO: Amp: C10 5/319 Flux: 76.642255  Var: 110.886291  Q(0,0): 221.772  Q(1,0): 0.900767  Q(0,1): 0.38353
+lsst.bfkSolve WARNING: Amp: C10 5 skipped due to value of (variance-mean)=68.487853
+lsst.bfkSolve INFO: Amp: C10 6/319 Flux: 78.369559  Var: 112.781742  Q(0,0): 225.563  Q(1,0): 1.45488  Q(0,1): -0.135253
+lsst.bfkSolve WARNING: Amp: C10 6 skipped due to value of (variance-mean)=68.824145
+lsst.bfkSolve INFO: Amp: C10 7/319 Flux: 81.017037  Var: 115.169589  Q(0,0): 230.339  Q(1,0): 1.55406  Q(0,1): -0.261954
+lsst.bfkSolve WARNING: Amp: C10 7 skipped due to value of (variance-mean)=68.304877
+lsst.bfkSolve INFO: Amp: C10 8/319 Flux: 81.309328  Var: 116.582143  Q(0,0): 233.164  Q(1,0): 1.76969  Q(0,1): 0.8094
+lsst.bfkSolve WARNING: Amp: C10 8 skipped due to value of (variance-mean)=70.545402
+lsst.bfkSolve INFO: Amp: C10 9/319 Flux: 84.290033  Var: 119.108350  Q(0,0): 238.216  Q(1,0): 1.33627  Q(0,1): -0.0476513
+lsst.bfkSolve WARNING: Amp: C10 9 skipped due to value of (variance-mean)=69.636400
+lsst.bfkSolve INFO: Amp: C10 10/319 Flux: 86.779427  Var: 121.158933  Q(0,0): 242.318  Q(1,0): 1.80933  Q(0,1): 0.448849
+lsst.bfkSolve WARNING: Amp: C10 10 skipped due to value of (variance-mean)=68.758774
+lsst.bfkSolve INFO: Amp: C10 11/319 Flux: 88.546079  Var: 123.108737  Q(0,0): 246.217  Q(1,0): 1.31938  Q(0,1): 0.124477
+lsst.bfkSolve WARNING: Amp: C10 11 skipped due to value of (variance-mean)=69.125075
+lsst.bfkSolve INFO: Amp: C10 12/319 Flux: 90.968880  Var: 125.749129  Q(0,0): 251.498  Q(1,0): 1.74567  Q(0,1): 1.14913
+lsst.bfkSolve WARNING: Amp: C10 12 skipped due to value of (variance-mean)=69.560250
+lsst.bfkSolve INFO: Amp: C10 13/319 Flux: 92.757874  Var: 127.436498  Q(0,0): 254.873  Q(1,0): 1.12661  Q(0,1): 0.0932373
+lsst.bfkSolve WARNING: Amp: C10 13 skipped due to value of (variance-mean)=69.356997
+lsst.bfkSolve INFO: Amp: C10 14/319 Flux: 95.557765  Var: 131.402630  Q(0,0): 262.805  Q(1,0): 2.12046  Q(0,1): 0.792239
+lsst.bfkSolve WARNING: Amp: C10 14 skipped due to value of (variance-mean)=71.689472
+lsst.bfkSolve INFO: Amp: C10 15/319 Flux: 97.604677  Var: 133.529554  Q(0,0): 267.059  Q(1,0): 1.94128  Q(0,1): 0.191559
+lsst.bfkSolve WARNING: Amp: C10 15 skipped due to value of (variance-mean)=71.849491
+lsst.bfkSolve INFO: Amp: C10 16/319 Flux: 100.341882  Var: 136.663514  Q(0,0): 273.327  Q(1,0): 1.07509  Q(0,1): 0.577022
+lsst.bfkSolve WARNING: Amp: C10 16 skipped due to value of (variance-mean)=72.642997
+lsst.bfkSolve INFO: Amp: C10 17/319 Flux: 102.212699  Var: 138.760713  Q(0,0): 277.521  Q(1,0): 1.72375  Q(0,1): -0.0710551
+lsst.bfkSolve WARNING: Amp: C10 17 skipped due to value of (variance-mean)=73.095754
+lsst.bfkSolve INFO: Amp: C10 18/319 Flux: 104.656808  Var: 142.496533  Q(0,0): 284.993  Q(1,0): 1.94808  Q(0,1): 0.83158
+lsst.bfkSolve WARNING: Amp: C10 18 skipped due to value of (variance-mean)=75.679170
+lsst.bfkSolve INFO: Amp: C10 19/319 Flux: 109.770468  Var: 146.683009  Q(0,0): 293.366  Q(1,0): 0.894468  Q(0,1): 0.320914
+lsst.bfkSolve WARNING: Amp: C10 19 skipped due to value of (variance-mean)=73.824795
+lsst.bfkSolve INFO: Amp: C10 20/319 Flux: 110.171485  Var: 149.456037  Q(0,0): 298.912  Q(1,0): 1.20539  Q(0,1): -0.00393441
+lsst.bfkSolve WARNING: Amp: C10 20 skipped due to value of (variance-mean)=78.568809
+lsst.bfkSolve INFO: Amp: C10 21/319 Flux: 112.395298  Var: 152.320773  Q(0,0): 304.641  Q(1,0): 1.46826  Q(0,1): 0.368061
+lsst.bfkSolve WARNING: Amp: C10 21 skipped due to value of (variance-mean)=79.850649
+lsst.bfkSolve INFO: Amp: C10 22/319 Flux: 116.585785  Var: 163.294220  Q(0,0): 326.588  Q(1,0): 13.9488  Q(0,1): 12.6618
+lsst.bfkSolve WARNING: Amp: C10 22 skipped due to value of (variance-mean)=93.416549
+lsst.bfkSolve INFO: Amp: C10 23/319 Flux: 118.714495  Var: 166.709425  Q(0,0): 333.419  Q(1,0): 16.7377  Q(0,1): 15.9172
+lsst.bfkSolve WARNING: Amp: C10 23 skipped due to value of (variance-mean)=95.989532
+lsst.bfkSolve INFO: Amp: C10 24/319 Flux: 122.743434  Var: 177.545249  Q(0,0): 355.09  Q(1,0): 31.0029  Q(0,1): 30.2896
+lsst.bfkSolve WARNING: Amp: C10 24 skipped due to value of (variance-mean)=109.603282
+lsst.bfkSolve INFO: Amp: C10 25/319 Flux: 125.448487  Var: 174.248135  Q(0,0): 348.496  Q(1,0): 17.8189  Q(0,1): 16.9959
+lsst.bfkSolve WARNING: Amp: C10 25 skipped due to value of (variance-mean)=97.598954
+lsst.bfkSolve INFO: Amp: C10 26/319 Flux: 128.884486  Var: 183.370389  Q(0,0): 366.74  Q(1,0): 31.6608  Q(0,1): 30.3473
+lsst.bfkSolve WARNING: Amp: C10 26 skipped due to value of (variance-mean)=108.971447
+lsst.bfkSolve INFO: Amp: C10 27/319 Flux: 131.580159  Var: 176.627242  Q(0,0): 353.254  Q(1,0): 12.6952  Q(0,1): 12.113
+lsst.bfkSolve WARNING: Amp: C10 27 skipped due to value of (variance-mean)=90.093819
+lsst.bfkSolve INFO: Amp: C10 28/319 Flux: 134.843916  Var: 179.994805  Q(0,0): 359.989  Q(1,0): 14.919  Q(0,1): 14.8724
+lsst.bfkSolve WARNING: Amp: C10 28 skipped due to value of (variance-mean)=90.301425
+lsst.bfkSolve INFO: Amp: C10 29/319 Flux: 138.055572  Var: 183.587146  Q(0,0): 367.174  Q(1,0): 17.0249  Q(0,1): 16.2272
+lsst.bfkSolve WARNING: Amp: C10 29 skipped due to value of (variance-mean)=91.062787
+lsst.bfkSolve INFO: Amp: C10 30/319 Flux: 141.740817  Var: 183.347657  Q(0,0): 366.695  Q(1,0): 12.8166  Q(0,1): 11.8883
+lsst.bfkSolve WARNING: Amp: C10 30 skipped due to value of (variance-mean)=83.213320
+lsst.bfkSolve INFO: Amp: C10 31/319 Flux: 145.518002  Var: 195.678474  Q(0,0): 391.357  Q(1,0): 31.7176  Q(0,1): 30.4495
+lsst.bfkSolve WARNING: Amp: C10 31 skipped due to value of (variance-mean)=100.320561
+lsst.bfkSolve INFO: Amp: C10 32/319 Flux: 147.394232  Var: 183.711774  Q(0,0): 367.423  Q(1,0): 0.469896  Q(0,1): 1.35273
+lsst.bfkSolve WARNING: Amp: C10 32 skipped due to value of (variance-mean)=72.634724
+lsst.bfkSolve INFO: Amp: C10 33/319 Flux: 152.207341  Var: 194.025886  Q(0,0): 388.051  Q(1,0): 17.1905  Q(0,1): 15.5753
+lsst.bfkSolve WARNING: Amp: C10 33 skipped due to value of (variance-mean)=83.636707
+lsst.bfkSolve INFO: Amp: C10 34/319 Flux: 155.286825  Var: 196.705360  Q(0,0): 393.41  Q(1,0): 16.741  Q(0,1): 15.5787
+lsst.bfkSolve WARNING: Amp: C10 34 skipped due to value of (variance-mean)=82.836684
+lsst.bfkSolve INFO: Amp: C10 35/319 Flux: 158.198489  Var: 192.415429  Q(0,0): 384.83  Q(1,0): 2.11204  Q(0,1): 0.517358
+lsst.bfkSolve WARNING: Amp: C10 35 skipped due to value of (variance-mean)=68.433501
+lsst.bfkSolve INFO: Amp: C10 36/319 Flux: 161.954065  Var: 196.045499  Q(0,0): 392.091  Q(1,0): 1.70579  Q(0,1): 0.575982
+lsst.bfkSolve WARNING: Amp: C10 36 skipped due to value of (variance-mean)=68.182483
+lsst.bfkSolve INFO: Amp: C10 37/319 Flux: 165.873636  Var: 199.371632  Q(0,0): 398.743  Q(1,0): 1.82502  Q(0,1): 0.318498
+lsst.bfkSolve WARNING: Amp: C10 37 skipped due to value of (variance-mean)=66.995600
+lsst.bfkSolve INFO: Amp: C10 38/319 Flux: 170.770188  Var: 210.133064  Q(0,0): 420.266  Q(1,0): 15.8859  Q(0,1): 15.469
+lsst.bfkSolve WARNING: Amp: C10 38 skipped due to value of (variance-mean)=78.725339
+lsst.bfkSolve INFO: Amp: C10 39/319 Flux: 173.663871  Var: 206.204058  Q(0,0): 412.408  Q(1,0): 1.18072  Q(0,1): 0.932154
+lsst.bfkSolve WARNING: Amp: C10 39 skipped due to value of (variance-mean)=65.079969
+lsst.bfkSolve INFO: Amp: C10 40/319 Flux: 179.333686  Var: 214.298929  Q(0,0): 428.597  Q(1,0): 8.86275  Q(0,1): 8.08641
+lsst.bfkSolve WARNING: Amp: C10 40 skipped due to value of (variance-mean)=69.930064
+lsst.bfkSolve INFO: Amp: C10 41/319 Flux: 182.089448  Var: 214.233733  Q(0,0): 428.467  Q(1,0): 0.769848  Q(0,1): -0.177752
+lsst.bfkSolve WARNING: Amp: C10 41 skipped due to value of (variance-mean)=64.288148
+lsst.bfkSolve INFO: Amp: C10 42/319 Flux: 188.312708  Var: 233.490860  Q(0,0): 466.981  Q(1,0): 30.5925  Q(0,1): 27.8692
+lsst.bfkSolve WARNING: Amp: C10 42 skipped due to value of (variance-mean)=90.355845
+lsst.bfkSolve INFO: Amp: C10 43/319 Flux: 192.786760  Var: 237.856902  Q(0,0): 475.713  Q(1,0): 30.1516  Q(0,1): 29.5196
+lsst.bfkSolve WARNING: Amp: C10 43 skipped due to value of (variance-mean)=90.139817
+lsst.bfkSolve INFO: Amp: C10 44/319 Flux: 198.223374  Var: 228.091282  Q(0,0): 456.182  Q(1,0): 1.16569  Q(0,1): 0.718028
+lsst.bfkSolve WARNING: Amp: C10 44 skipped due to value of (variance-mean)=59.735369
+lsst.bfkSolve INFO: Amp: C10 45/319 Flux: 200.831420  Var: 233.403782  Q(0,0): 466.807  Q(1,0): 1.36088  Q(0,1): 0.700807
+lsst.bfkSolve WARNING: Amp: C10 45 skipped due to value of (variance-mean)=65.144265
+lsst.bfkSolve INFO: Amp: C10 46/319 Flux: 204.909940  Var: 237.536941  Q(0,0): 475.073  Q(1,0): 0.767367  Q(0,1): 0.323735
+lsst.bfkSolve WARNING: Amp: C10 46 skipped due to value of (variance-mean)=65.253536
+lsst.bfkSolve INFO: Amp: C10 47/319 Flux: 210.322864  Var: 243.796393  Q(0,0): 487.592  Q(1,0): 1.37003  Q(0,1): 0.156023
+lsst.bfkSolve WARNING: Amp: C10 47 skipped due to value of (variance-mean)=66.946578
+lsst.bfkSolve INFO: Amp: C10 48/319 Flux: 216.079761  Var: 257.674133  Q(0,0): 515.348  Q(1,0): 16.9861  Q(0,1): 16.8874
+lsst.bfkSolve WARNING: Amp: C10 48 skipped due to value of (variance-mean)=83.188238
+lsst.bfkSolve INFO: Amp: C10 49/319 Flux: 221.205607  Var: 264.399036  Q(0,0): 528.798  Q(1,0): 16.2856  Q(0,1): 16.3565
+lsst.bfkSolve WARNING: Amp: C10 49 skipped due to value of (variance-mean)=86.386337
+lsst.bfkSolve INFO: Amp: C10 50/319 Flux: 227.119181  Var: 270.979757  Q(0,0): 541.959  Q(1,0): 14.5055  Q(0,1): 14.0249
+lsst.bfkSolve WARNING: Amp: C10 50 skipped due to value of (variance-mean)=87.720619
+lsst.bfkSolve INFO: Amp: C10 51/319 Flux: 232.553361  Var: 280.337724  Q(0,0): 560.675  Q(1,0): 15.1053  Q(0,1): 15.3182
+lsst.bfkSolve WARNING: Amp: C10 51 skipped due to value of (variance-mean)=95.568174
+lsst.bfkSolve INFO: Amp: C10 52/319 Flux: 237.077345  Var: 279.751987  Q(0,0): 559.503  Q(1,0): -0.304346  Q(0,1): 0.0698215
+lsst.bfkSolve WARNING: Amp: C10 52 skipped due to value of (variance-mean)=85.348734
+lsst.bfkSolve INFO: Amp: C10 53/319 Flux: 242.897109  Var: 285.703932  Q(0,0): 571.407  Q(1,0): 1.33924  Q(0,1): 0.791926
+lsst.bfkSolve WARNING: Amp: C10 53 skipped due to value of (variance-mean)=85.613084
+lsst.bfkSolve INFO: Amp: C10 54/319 Flux: 248.731633  Var: 292.885697  Q(0,0): 585.771  Q(1,0): -0.327944  Q(0,1): 0.30226
+lsst.bfkSolve WARNING: Amp: C10 54 skipped due to value of (variance-mean)=88.307553
+lsst.bfkSolve INFO: Amp: C10 55/319 Flux: 256.365528  Var: 301.509713  Q(0,0): 603.019  Q(1,0): 10.3691  Q(0,1): 10.9844
+lsst.bfkSolve WARNING: Amp: C10 55 skipped due to value of (variance-mean)=90.287777
+lsst.bfkSolve INFO: Amp: C10 56/319 Flux: 261.539636  Var: 307.720672  Q(0,0): 615.441  Q(1,0): 15.3344  Q(0,1): 15.2474
+lsst.bfkSolve WARNING: Amp: C10 56 skipped due to value of (variance-mean)=92.361468
+lsst.bfkSolve INFO: Amp: C10 57/319 Flux: 266.949911  Var: 304.351373  Q(0,0): 608.702  Q(1,0): 0.575036  Q(0,1): 0.425243
+lsst.bfkSolve WARNING: Amp: C10 57 skipped due to value of (variance-mean)=74.802327
+lsst.bfkSolve INFO: Amp: C10 58/319 Flux: 274.506409  Var: 316.168201  Q(0,0): 632.336  Q(1,0): 17.7263  Q(0,1): 16.9762
+lsst.bfkSolve WARNING: Amp: C10 58 skipped due to value of (variance-mean)=83.322964
+lsst.bfkSolve INFO: Amp: C10 59/319 Flux: 281.985818  Var: 311.946746  Q(0,0): 623.893  Q(1,0): 0.361136  Q(0,1): 0.453523
+lsst.bfkSolve WARNING: Amp: C10 59 skipped due to value of (variance-mean)=59.921243
+lsst.bfkSolve INFO: Amp: C10 60/319 Flux: 288.145944  Var: 330.795241  Q(0,0): 661.59  Q(1,0): 28.4582  Q(0,1): 28.228
+lsst.bfkSolve WARNING: Amp: C10 60 skipped due to value of (variance-mean)=85.297942
+lsst.bfkSolve INFO: Amp: C10 61/319 Flux: 293.696534  Var: 323.527953  Q(0,0): 647.055  Q(1,0): 2.46792  Q(0,1): 2.78347
+lsst.bfkSolve WARNING: Amp: C10 61 skipped due to value of (variance-mean)=59.662202
+lsst.bfkSolve INFO: Amp: C10 62/319 Flux: 300.488756  Var: 329.465263  Q(0,0): 658.93  Q(1,0): 1.71644  Q(0,1): 0.00223682
+lsst.bfkSolve WARNING: Amp: C10 62 skipped due to value of (variance-mean)=57.952366
+lsst.bfkSolve INFO: Amp: C10 63/319 Flux: 308.446441  Var: 342.669506  Q(0,0): 685.338  Q(1,0): 11.9422  Q(0,1): 12.1773
+lsst.bfkSolve WARNING: Amp: C10 63 skipped due to value of (variance-mean)=68.445456
+lsst.bfkSolve INFO: Amp: C10 64/319 Flux: 316.158449  Var: 351.970497  Q(0,0): 703.94  Q(1,0): 13.3816  Q(0,1): 12.2741
+lsst.bfkSolve WARNING: Amp: C10 64 skipped due to value of (variance-mean)=71.623403
+lsst.bfkSolve INFO: Amp: C10 65/319 Flux: 323.150256  Var: 354.982545  Q(0,0): 709.964  Q(1,0): 1.82298  Q(0,1): 0.785864
+lsst.bfkSolve WARNING: Amp: C10 65 skipped due to value of (variance-mean)=63.663880
+lsst.bfkSolve INFO: Amp: C10 66/319 Flux: 330.760228  Var: 363.295061  Q(0,0): 726.589  Q(1,0): 1.49948  Q(0,1): 0.215209
+lsst.bfkSolve WARNING: Amp: C10 66 skipped due to value of (variance-mean)=65.068952
+lsst.bfkSolve INFO: Amp: C10 67/319 Flux: 339.556668  Var: 379.715624  Q(0,0): 759.431  Q(1,0): 17.8161  Q(0,1): 14.6237
+lsst.bfkSolve WARNING: Amp: C10 67 skipped due to value of (variance-mean)=80.317166
+lsst.bfkSolve INFO: Amp: C10 68/319 Flux: 346.509236  Var: 382.475239  Q(0,0): 764.95  Q(1,0): 2.62945  Q(0,1): 2.72367
+lsst.bfkSolve WARNING: Amp: C10 68 skipped due to value of (variance-mean)=71.931253
+lsst.bfkSolve INFO: Amp: C10 69/319 Flux: 356.044014  Var: 400.881973  Q(0,0): 801.763  Q(1,0): 16.5981  Q(0,1): 13.5025
+lsst.bfkSolve WARNING: Amp: C10 69 skipped due to value of (variance-mean)=89.675129
+lsst.bfkSolve INFO: Amp: C10 70/319 Flux: 364.404843  Var: 410.735948  Q(0,0): 821.471  Q(1,0): 16.1122  Q(0,1): 14.7155
+lsst.bfkSolve WARNING: Amp: C10 70 skipped due to value of (variance-mean)=92.661404
+lsst.bfkSolve INFO: Amp: C10 71/319 Flux: 372.254707  Var: 414.021394  Q(0,0): 828.042  Q(1,0): 1.85957  Q(0,1): 0.801794
+lsst.bfkSolve WARNING: Amp: C10 71 skipped due to value of (variance-mean)=83.532561
+lsst.bfkSolve INFO: Amp: C10 72/319 Flux: 383.986892  Var: 428.500418  Q(0,0): 857  Q(1,0): 10.731  Q(0,1): 12.0859
+lsst.bfkSolve WARNING: Amp: C10 72 skipped due to value of (variance-mean)=89.026210
+lsst.bfkSolve INFO: Amp: C10 73/319 Flux: 392.122650  Var: 437.597798  Q(0,0): 875.195  Q(1,0): 17.3193  Q(0,1): 17.2049
+lsst.bfkSolve WARNING: Amp: C10 73 skipped due to value of (variance-mean)=90.949436
+lsst.bfkSolve INFO: Amp: C10 74/319 Flux: 402.983093  Var: 439.052857  Q(0,0): 878.105  Q(1,0): 7.06212  Q(0,1): 7.41661
+lsst.bfkSolve WARNING: Amp: C10 74 skipped due to value of (variance-mean)=72.138666
+lsst.bfkSolve INFO: Amp: C10 75/319 Flux: 409.824351  Var: 441.694843  Q(0,0): 883.389  Q(1,0): 2.12643  Q(0,1): -1.43494
+lsst.bfkSolve WARNING: Amp: C10 75 skipped due to value of (variance-mean)=63.740117
+lsst.bfkSolve INFO: Amp: C10 76/319 Flux: 420.127354  Var: 457.772552  Q(0,0): 915.544  Q(1,0): 18.2137  Q(0,1): 15.3796
+lsst.bfkSolve WARNING: Amp: C10 76 skipped due to value of (variance-mean)=75.289496
+lsst.bfkSolve INFO: Amp: C10 77/319 Flux: 429.563922  Var: 460.132146  Q(0,0): 920.263  Q(1,0): 2.37037  Q(0,1): 0.459106
+lsst.bfkSolve WARNING: Amp: C10 77 skipped due to value of (variance-mean)=61.135543
+lsst.bfkSolve INFO: Amp: C10 78/319 Flux: 441.006067  Var: 477.369099  Q(0,0): 954.737  Q(1,0): 14.4924  Q(0,1): 16.4814
+lsst.bfkSolve WARNING: Amp: C10 78 skipped due to value of (variance-mean)=72.725125
+lsst.bfkSolve INFO: Amp: C10 79/319 Flux: 452.646497  Var: 480.742801  Q(0,0): 961.485  Q(1,0): 0.00220616  Q(0,1): 2.04429
+lsst.bfkSolve WARNING: Amp: C10 79 skipped due to value of (variance-mean)=56.191665
+lsst.bfkSolve INFO: Amp: C10 80/319 Flux: 462.697354  Var: 503.396665  Q(0,0): 1006.79  Q(1,0): 27.4645  Q(0,1): 25.6808
+lsst.bfkSolve WARNING: Amp: C10 80 skipped due to value of (variance-mean)=81.397633
+lsst.bfkSolve INFO: Amp: C10 81/319 Flux: 473.888616  Var: 500.517443  Q(0,0): 1001.03  Q(1,0): 1.16864  Q(0,1): 1.77744
+lsst.bfkSolve WARNING: Amp: C10 81 skipped due to value of (variance-mean)=53.256670
+lsst.bfkSolve INFO: Amp: C10 82/319 Flux: 484.349225  Var: 517.943428  Q(0,0): 1035.89  Q(1,0): 11.775  Q(0,1): 10.2643
+lsst.bfkSolve WARNING: Amp: C10 82 skipped due to value of (variance-mean)=67.187387
+lsst.bfkSolve INFO: Amp: C10 83/319 Flux: 496.168916  Var: 531.964760  Q(0,0): 1063.93  Q(1,0): 15.9105  Q(0,1): 15.8763
+lsst.bfkSolve WARNING: Amp: C10 83 skipped due to value of (variance-mean)=71.590641
+lsst.bfkSolve INFO: Amp: C10 84/319 Flux: 508.673474  Var: 547.690182  Q(0,0): 1095.38  Q(1,0): 17.2739  Q(0,1): 13.7377
+lsst.bfkSolve WARNING: Amp: C10 84 skipped due to value of (variance-mean)=78.032340
+lsst.bfkSolve INFO: Amp: C10 85/319 Flux: 519.194758  Var: 555.686990  Q(0,0): 1111.37  Q(1,0): 2.986  Q(0,1): 1.01666
+lsst.bfkSolve WARNING: Amp: C10 85 skipped due to value of (variance-mean)=72.983373
+lsst.bfkSolve INFO: Amp: C10 86/319 Flux: 532.193455  Var: 573.227130  Q(0,0): 1146.45  Q(1,0): 1.03246  Q(0,1): 0.465924
+lsst.bfkSolve WARNING: Amp: C10 86 skipped due to value of (variance-mean)=82.066223
+lsst.bfkSolve INFO: Amp: C10 87/319 Flux: 544.796010  Var: 587.222435  Q(0,0): 1174.44  Q(1,0): 2.38184  Q(0,1): 2.59489
+lsst.bfkSolve WARNING: Amp: C10 87 skipped due to value of (variance-mean)=84.851696
+lsst.bfkSolve INFO: Amp: C10 88/319 Flux: 558.342073  Var: 598.694796  Q(0,0): 1197.39  Q(1,0): 1.11914  Q(0,1): -0.645942
+lsst.bfkSolve WARNING: Amp: C10 88 skipped due to value of (variance-mean)=80.704270
+lsst.bfkSolve INFO: Amp: C10 89/319 Flux: 572.362936  Var: 611.168121  Q(0,0): 1222.34  Q(1,0): 13.8857  Q(0,1): 12.0359
+lsst.bfkSolve WARNING: Amp: C10 89 skipped due to value of (variance-mean)=77.609168
+lsst.bfkSolve INFO: Amp: C10 90/319 Flux: 586.442743  Var: 623.036248  Q(0,0): 1246.07  Q(1,0): 16.3197  Q(0,1): 15.0567
+lsst.bfkSolve WARNING: Amp: C10 90 skipped due to value of (variance-mean)=73.185786
+lsst.bfkSolve INFO: Amp: C10 91/319 Flux: 600.531269  Var: 633.941322  Q(0,0): 1267.88  Q(1,0): 15.7866  Q(0,1): 14.4015
+lsst.bfkSolve WARNING: Amp: C10 91 skipped due to value of (variance-mean)=66.818862
+lsst.bfkSolve INFO: Amp: C10 92/319 Flux: 615.130086  Var: 649.525752  Q(0,0): 1299.05  Q(1,0): 14.874  Q(0,1): 12.3838
+lsst.bfkSolve WARNING: Amp: C10 92 skipped due to value of (variance-mean)=68.790054
+lsst.bfkSolve INFO: Amp: C10 93/319 Flux: 629.992072  Var: 670.168161  Q(0,0): 1340.34  Q(1,0): 17.8692  Q(0,1): 15.4885
+lsst.bfkSolve WARNING: Amp: C10 93 skipped due to value of (variance-mean)=80.350863
+lsst.bfkSolve INFO: Amp: C10 94/319 Flux: 644.826929  Var: 689.500544  Q(0,0): 1379  Q(1,0): 14.2529  Q(0,1): 13.8575
+lsst.bfkSolve WARNING: Amp: C10 94 skipped due to value of (variance-mean)=89.345876
+lsst.bfkSolve INFO: Amp: C10 95/319 Flux: 658.984993  Var: 702.392134  Q(0,0): 1404.78  Q(1,0): -2.0053  Q(0,1): -1.14262
+lsst.bfkSolve WARNING: Amp: C10 95 skipped due to value of (variance-mean)=86.812903
+lsst.bfkSolve INFO: Amp: C10 96/319 Flux: 675.758530  Var: 719.650034  Q(0,0): 1439.3  Q(1,0): 0.0552075  Q(0,1): -0.346151
+lsst.bfkSolve WARNING: Amp: C10 96 skipped due to value of (variance-mean)=87.781594
+lsst.bfkSolve INFO: Amp: C10 97/319 Flux: 694.213375  Var: 734.012632  Q(0,0): 1468.02  Q(1,0): 11.2228  Q(0,1): 11.0289
+lsst.bfkSolve WARNING: Amp: C10 97 skipped due to value of (variance-mean)=79.597070
+lsst.bfkSolve INFO: Amp: C10 98/319 Flux: 707.402821  Var: 738.645021  Q(0,0): 1477.29  Q(1,0): 2.3428  Q(0,1): 0.671037
+lsst.bfkSolve WARNING: Amp: C10 98 skipped due to value of (variance-mean)=62.482951
+lsst.bfkSolve INFO: Amp: C10 99/319 Flux: 725.590599  Var: 750.346472  Q(0,0): 1500.69  Q(1,0): 4.92674  Q(0,1): 0.540269
+lsst.bfkSolve WARNING: Amp: C10 99 skipped due to value of (variance-mean)=49.510272
+lsst.bfkSolve INFO: Amp: C10 100/319 Flux: 743.093390  Var: 769.840390  Q(0,0): 1539.68  Q(1,0): 4.1041  Q(0,1): 1.56025
+lsst.bfkSolve WARNING: Amp: C10 100 skipped due to value of (variance-mean)=53.492488
+lsst.bfkSolve INFO: Amp: C10 101/319 Flux: 761.775948  Var: 798.072619  Q(0,0): 1596.14  Q(1,0): 15.0825  Q(0,1): 12.8958
+lsst.bfkSolve WARNING: Amp: C10 101 skipped due to value of (variance-mean)=72.591774
+lsst.bfkSolve INFO: Amp: C10 102/319 Flux: 779.149330  Var: 817.943634  Q(0,0): 1635.89  Q(1,0): 3.62072  Q(0,1): -3.98919
+lsst.bfkSolve WARNING: Amp: C10 102 skipped due to value of (variance-mean)=77.587002
+lsst.bfkSolve INFO: Amp: C10 103/319 Flux: 796.575272  Var: 834.954277  Q(0,0): 1669.91  Q(1,0): 5.64276  Q(0,1): 1.92258
+lsst.bfkSolve WARNING: Amp: C10 103 skipped due to value of (variance-mean)=76.756369
+lsst.bfkSolve INFO: Amp: C10 104/319 Flux: 817.064828  Var: 851.734305  Q(0,0): 1703.47  Q(1,0): 6.48765  Q(0,1): 0.626318
+lsst.bfkSolve WARNING: Amp: C10 104 skipped due to value of (variance-mean)=69.337280
+lsst.bfkSolve INFO: Amp: C10 105/319 Flux: 836.906639  Var: 873.814487  Q(0,0): 1747.63  Q(1,0): 17.1686  Q(0,1): 15.0467
+lsst.bfkSolve WARNING: Amp: C10 105 skipped due to value of (variance-mean)=73.813978
+lsst.bfkSolve INFO: Amp: C10 106/319 Flux: 856.246963  Var: 881.722706  Q(0,0): 1763.44  Q(1,0): 2.48448  Q(0,1): 3.95787
+lsst.bfkSolve WARNING: Amp: C10 106 skipped due to value of (variance-mean)=50.949753
+lsst.bfkSolve INFO: Amp: C10 107/319 Flux: 878.490151  Var: 908.140668  Q(0,0): 1816.28  Q(1,0): 14.2951  Q(0,1): 17.7754
+lsst.bfkSolve WARNING: Amp: C10 107 skipped due to value of (variance-mean)=59.299250
+lsst.bfkSolve INFO: Amp: C10 108/319 Flux: 898.707680  Var: 920.395239  Q(0,0): 1840.79  Q(1,0): -3.79019  Q(0,1): 0.772623
+lsst.bfkSolve WARNING: Amp: C10 108 skipped due to value of (variance-mean)=43.373309
+lsst.bfkSolve INFO: Amp: C10 109/319 Flux: 920.947837  Var: 953.623134  Q(0,0): 1907.24  Q(1,0): 7.70282  Q(0,1): 8.63819
+lsst.bfkSolve WARNING: Amp: C10 109 skipped due to value of (variance-mean)=65.348719
+lsst.bfkSolve INFO: Amp: C10 110/319 Flux: 943.019204  Var: 982.258624  Q(0,0): 1964.52  Q(1,0): 14.3913  Q(0,1): 12.1432
+lsst.bfkSolve WARNING: Amp: C10 110 skipped due to value of (variance-mean)=78.476910
+lsst.bfkSolve INFO: Amp: C10 111/319 Flux: 966.738590  Var: 1002.772039  Q(0,0): 2005.54  Q(1,0): 3.13352  Q(0,1): -1.50374
+lsst.bfkSolve WARNING: Amp: C10 111 skipped due to value of (variance-mean)=72.064929
+lsst.bfkSolve INFO: Amp: C10 112/319 Flux: 989.360787  Var: 1026.699038  Q(0,0): 2053.4  Q(1,0): 16.7985  Q(0,1): 9.789
+lsst.bfkSolve WARNING: Amp: C10 112 skipped due to value of (variance-mean)=74.674484
+lsst.bfkSolve INFO: Amp: C10 113/319 Flux: 1011.511158  Var: 1035.750987  Q(0,0): 2071.5  Q(1,0): 5.46668  Q(0,1): 0.717333
+lsst.bfkSolve WARNING: Amp: C10 113 skipped due to value of (variance-mean)=48.477624
+lsst.bfkSolve INFO: Amp: C10 114/319 Flux: 1037.959143  Var: 1060.393597  Q(0,0): 2120.79  Q(1,0): 5.47145  Q(0,1): -0.355044
+lsst.bfkSolve WARNING: Amp: C10 114 skipped due to value of (variance-mean)=44.866825
+lsst.bfkSolve INFO: Amp: C10 115/319 Flux: 1060.771054  Var: 1093.985245  Q(0,0): 2187.97  Q(1,0): 2.7672  Q(0,1): 2.97093
+lsst.bfkSolve WARNING: Amp: C10 115 skipped due to value of (variance-mean)=66.426233
+lsst.bfkSolve INFO: Amp: C10 116/319 Flux: 1088.173029  Var: 1131.326523  Q(0,0): 2262.65  Q(1,0): 14.8484  Q(0,1): 15.3272
+lsst.bfkSolve WARNING: Amp: C10 116 skipped due to value of (variance-mean)=86.304766
+lsst.bfkSolve INFO: Amp: C10 117/319 Flux: 1113.131568  Var: 1144.778671  Q(0,0): 2289.56  Q(1,0): 4.27554  Q(0,1): 1.65297
+lsst.bfkSolve WARNING: Amp: C10 117 skipped due to value of (variance-mean)=63.291958
+lsst.bfkSolve INFO: Amp: C10 118/319 Flux: 1139.661405  Var: 1166.969734  Q(0,0): 2333.94  Q(1,0): 0.66133  Q(0,1): 1.36896
+lsst.bfkSolve WARNING: Amp: C10 118 skipped due to value of (variance-mean)=54.614366
+lsst.bfkSolve INFO: Amp: C10 119/319 Flux: 1167.893882  Var: 1196.141683  Q(0,0): 2392.28  Q(1,0): 12.5268  Q(0,1): 6.29446
+lsst.bfkSolve WARNING: Amp: C10 119 skipped due to value of (variance-mean)=56.493250
+lsst.bfkSolve INFO: Amp: C10 120/319 Flux: 1182.744130  Var: 1214.389437  Q(0,0): 2428.78  Q(1,0): 6.10544  Q(0,1): 1.08457
+lsst.bfkSolve WARNING: Amp: C10 120 skipped due to value of (variance-mean)=63.288228
+lsst.bfkSolve INFO: Amp: C10 121/319 Flux: 1196.328051  Var: 1235.895734  Q(0,0): 2471.79  Q(1,0): 17.3997  Q(0,1): 17.354
+lsst.bfkSolve WARNING: Amp: C10 121 skipped due to value of (variance-mean)=79.132938
+lsst.bfkSolve INFO: Amp: C10 122/319 Flux: 1212.279001  Var: 1244.894111  Q(0,0): 2489.79  Q(1,0): 9.16564  Q(0,1): 7.52418
+lsst.bfkSolve WARNING: Amp: C10 122 skipped due to value of (variance-mean)=65.227775
+lsst.bfkSolve INFO: Amp: C10 123/319 Flux: 1225.675100  Var: 1272.164079  Q(0,0): 2544.33  Q(1,0): 34.312  Q(0,1): 32.0326
+lsst.bfkSolve WARNING: Amp: C10 123 skipped due to value of (variance-mean)=92.975457
+lsst.bfkSolve INFO: Amp: C10 124/319 Flux: 1238.144844  Var: 1276.267125  Q(0,0): 2552.53  Q(1,0): 13.5882  Q(0,1): 12.1267
+lsst.bfkSolve WARNING: Amp: C10 124 skipped due to value of (variance-mean)=76.242054
+lsst.bfkSolve INFO: Amp: C10 125/319 Flux: 1262.563227  Var: 1286.917079  Q(0,0): 2573.83  Q(1,0): 7.28139  Q(0,1): 2.44615
+lsst.bfkSolve WARNING: Amp: C10 125 skipped due to value of (variance-mean)=48.705176
+lsst.bfkSolve INFO: Amp: C10 126/319 Flux: 1283.623488  Var: 1303.611020  Q(0,0): 2607.22  Q(1,0): -0.103937  Q(0,1): -2.22313
+lsst.bfkSolve WARNING: Amp: C10 126 skipped due to value of (variance-mean)=39.972503
+lsst.bfkSolve INFO: Amp: C10 127/319 Flux: 1325.121668  Var: 1344.904372  Q(0,0): 2689.81  Q(1,0): 2.29444  Q(0,1): 3.62472
+lsst.bfkSolve WARNING: Amp: C10 127 skipped due to value of (variance-mean)=39.562764
+lsst.bfkSolve INFO: Amp: C10 128/319 Flux: 1358.179943  Var: 1386.503411  Q(0,0): 2773  Q(1,0): 7.71748  Q(0,1): 0.405834
+lsst.bfkSolve WARNING: Amp: C10 128 skipped due to value of (variance-mean)=56.644213
+lsst.bfkSolve INFO: Amp: C10 129/319 Flux: 1384.634838  Var: 1419.748614  Q(0,0): 2839.49  Q(1,0): 5.09226  Q(0,1): 1.66737
+lsst.bfkSolve WARNING: Amp: C10 129 skipped due to value of (variance-mean)=70.224763
+lsst.bfkSolve INFO: Amp: C10 130/319 Flux: 1423.522302  Var: 1455.034796  Q(0,0): 2910.07  Q(1,0): 16.1812  Q(0,1): 12.9148
+lsst.bfkSolve WARNING: Amp: C10 130 skipped due to value of (variance-mean)=63.022129
+lsst.bfkSolve INFO: Amp: C10 131/319 Flux: 1457.882039  Var: 1488.663699  Q(0,0): 2977.32  Q(1,0): -0.278379  Q(0,1): 3.51922
+lsst.bfkSolve WARNING: Amp: C10 131 skipped due to value of (variance-mean)=61.560396
+lsst.bfkSolve INFO: Amp: C10 132/319 Flux: 1490.816873  Var: 1530.427427  Q(0,0): 3060.85  Q(1,0): -0.417274  Q(0,1): 3.58508
+lsst.bfkSolve WARNING: Amp: C10 132 skipped due to value of (variance-mean)=79.218101
+lsst.bfkSolve INFO: Amp: C10 133/319 Flux: 1525.608270  Var: 1574.819243  Q(0,0): 3149.64  Q(1,0): 20.2259  Q(0,1): 14.2781
+lsst.bfkSolve WARNING: Amp: C10 133 skipped due to value of (variance-mean)=98.418853
+lsst.bfkSolve INFO: Amp: C10 134/319 Flux: 1562.661654  Var: 1593.026074  Q(0,0): 3186.05  Q(1,0): 8.06262  Q(0,1): 4.58053
+lsst.bfkSolve WARNING: Amp: C10 134 skipped due to value of (variance-mean)=60.725709
+lsst.bfkSolve INFO: Amp: C10 135/319 Flux: 1590.060025  Var: 1627.450599  Q(0,0): 3254.9  Q(1,0): 20.688  Q(0,1): 13.037
+lsst.bfkSolve WARNING: Amp: C10 135 skipped due to value of (variance-mean)=74.777950
+lsst.bfkSolve INFO: Amp: C10 136/319 Flux: 1626.908119  Var: 1656.033368  Q(0,0): 3312.06  Q(1,0): -0.137641  Q(0,1): 1.2412
+lsst.bfkSolve WARNING: Amp: C10 136 skipped due to value of (variance-mean)=58.247243
+lsst.bfkSolve INFO: Amp: C10 137/319 Flux: 1669.672804  Var: 1703.589477  Q(0,0): 3407.18  Q(1,0): 28.7208  Q(0,1): 30.0268
+lsst.bfkSolve WARNING: Amp: C10 137 skipped due to value of (variance-mean)=67.829999
+lsst.bfkSolve INFO: Amp: C10 138/319 Flux: 1705.848322  Var: 1730.976228  Q(0,0): 3461.95  Q(1,0): 26.668  Q(0,1): 35.4713
+lsst.bfkSolve WARNING: Amp: C10 138 skipped due to value of (variance-mean)=50.252411
+lsst.bfkSolve INFO: Amp: C10 139/319 Flux: 1744.406522  Var: 1759.919052  Q(0,0): 3519.83  Q(1,0): -0.80841  Q(0,1): 8.80769
+lsst.bfkSolve WARNING: Amp: C10 139 skipped due to value of (variance-mean)=31.021601
+lsst.bfkSolve INFO: Amp: C10 140/319 Flux: 1790.621597  Var: 1821.601743  Q(0,0): 3643.2  Q(1,0): 7.4288  Q(0,1): 5.65742
+lsst.bfkSolve WARNING: Amp: C10 140 skipped due to value of (variance-mean)=61.956713
+lsst.bfkSolve INFO: Amp: C10 141/319 Flux: 1831.930211  Var: 1865.525876  Q(0,0): 3731.05  Q(1,0): 21.6101  Q(0,1): 19.49
+lsst.bfkSolve WARNING: Amp: C10 141 skipped due to value of (variance-mean)=67.187664
+lsst.bfkSolve INFO: Amp: C10 142/319 Flux: 1877.746195  Var: 1907.884000  Q(0,0): 3815.76  Q(1,0): 13.0849  Q(0,1): 13.6493
+lsst.bfkSolve WARNING: Amp: C10 142 skipped due to value of (variance-mean)=60.271862
+lsst.bfkSolve INFO: Amp: C10 143/319 Flux: 1918.095932  Var: 1944.600933  Q(0,0): 3889.2  Q(1,0): 2.28275  Q(0,1): -5.91892
+lsst.bfkSolve WARNING: Amp: C10 143 skipped due to value of (variance-mean)=53.006182
+lsst.bfkSolve INFO: Amp: C10 144/319 Flux: 1969.225002  Var: 1988.260969  Q(0,0): 3976.52  Q(1,0): -5.20508  Q(0,1): 3.58446
+lsst.bfkSolve WARNING: Amp: C10 144 skipped due to value of (variance-mean)=38.068028
+lsst.bfkSolve INFO: Amp: C10 145/319 Flux: 2009.120339  Var: 2024.723308  Q(0,0): 4049.44  Q(1,0): 8.57747  Q(0,1): 2.79861
+lsst.bfkSolve WARNING: Amp: C10 145 skipped due to value of (variance-mean)=31.201960
+lsst.bfkSolve INFO: Amp: C10 146/319 Flux: 2055.303275  Var: 2081.656065  Q(0,0): 4163.31  Q(1,0): 12.5636  Q(0,1): 5.98114
+lsst.bfkSolve WARNING: Amp: C10 146 skipped due to value of (variance-mean)=52.701490
+lsst.bfkSolve INFO: Amp: C10 147/319 Flux: 2105.461959  Var: 2120.235363  Q(0,0): 4240.47  Q(1,0): 4.15436  Q(0,1): 1.61131
+lsst.bfkSolve WARNING: Amp: C10 147 skipped due to value of (variance-mean)=29.542642
+lsst.bfkSolve INFO: Amp: C10 148/319 Flux: 2161.904100  Var: 2177.674390  Q(0,0): 4355.34  Q(1,0): 9.33803  Q(0,1): 15.9318
+lsst.bfkSolve WARNING: Amp: C10 148 skipped due to value of (variance-mean)=31.536302
+lsst.bfkSolve INFO: Amp: C10 149/319 Flux: 2214.089778  Var: 2239.239514  Q(0,0): 4478.47  Q(1,0): 17.759  Q(0,1): 9.75066
+lsst.bfkSolve WARNING: Amp: C10 149 skipped due to value of (variance-mean)=50.295071
+lsst.bfkSolve INFO: Amp: C10 150/319 Flux: 2267.067581  Var: 2283.220916  Q(0,0): 4566.44  Q(1,0): 12.9136  Q(0,1): 10.4364
+lsst.bfkSolve WARNING: Amp: C10 150 skipped due to value of (variance-mean)=32.302184
+lsst.bfkSolve INFO: Amp: C10 151/319 Flux: 2320.778647  Var: 2355.550545  Q(0,0): 4711.1  Q(1,0): 14.581  Q(0,1): 12.7462
+lsst.bfkSolve WARNING: Amp: C10 151 skipped due to value of (variance-mean)=69.539168
+lsst.bfkSolve INFO: Amp: C10 152/319 Flux: 2373.255041  Var: 2406.827985  Q(0,0): 4813.65  Q(1,0): 35.0479  Q(0,1): 22.1638
+lsst.bfkSolve WARNING: Amp: C10 152 skipped due to value of (variance-mean)=67.141160
+lsst.bfkSolve INFO: Amp: C10 153/319 Flux: 2426.592732  Var: 2437.616933  Q(0,0): 4875.23  Q(1,0): 4.05224  Q(0,1): 9.55891
+lsst.bfkSolve WARNING: Amp: C10 153 skipped due to value of (variance-mean)=22.043611
+lsst.bfkSolve INFO: Amp: C10 154/319 Flux: 2482.172248  Var: 2489.834106  Q(0,0): 4979.66  Q(1,0): 20.1196  Q(0,1): 8.14625
+lsst.bfkSolve WARNING: Amp: C10 154 skipped due to value of (variance-mean)=15.318825
+lsst.bfkSolve INFO: Amp: C10 155/319 Flux: 2549.270655  Var: 2576.392031  Q(0,0): 5152.78  Q(1,0): 31.8036  Q(0,1): 38.0185
+lsst.bfkSolve WARNING: Amp: C10 155 skipped due to value of (variance-mean)=54.237690
+lsst.bfkSolve INFO: Amp: C10 156/319 Flux: 2605.648542  Var: 2639.869703  Q(0,0): 5279.73  Q(1,0): 25.7205  Q(0,1): 28.4414
+lsst.bfkSolve WARNING: Amp: C10 156 skipped due to value of (variance-mean)=68.437134
+lsst.bfkSolve INFO: Amp: C10 157/319 Flux: 2670.294774  Var: 2691.191476  Q(0,0): 5382.38  Q(1,0): 5.77723  Q(0,1): -0.98743
+lsst.bfkSolve WARNING: Amp: C10 157 skipped due to value of (variance-mean)=41.788117
+lsst.bfkSolve INFO: Amp: C10 158/319 Flux: 2730.717104  Var: 2745.103383  Q(0,0): 5490.2  Q(1,0): 3.68336  Q(0,1): 8.79653
+lsst.bfkSolve WARNING: Amp: C10 158 skipped due to value of (variance-mean)=28.767164
+lsst.bfkSolve INFO: Amp: C10 159/319 Flux: 2804.636298  Var: 2805.496200  Q(0,0): 5610.99  Q(1,0): 5.30566  Q(0,1): 7.56639
+lsst.bfkSolve WARNING: Amp: C10 159 skipped due to value of (variance-mean)=1.714291
+lsst.bfkSolve INFO: Amp: C10 160/319 Flux: 2857.336141  Var: 2862.395203  Q(0,0): 5724.78  Q(1,0): -8.92662  Q(0,1): 9.2397
+lsst.bfkSolve WARNING: Amp: C10 160 skipped due to value of (variance-mean)=10.112500
+lsst.ctrl.mpexec.singleQuantumExecutor ERROR: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...} failed. Exception IndexError: index 160 is out of bounds for axis 0 with size 160
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 179, in execute
+    self.runQuantum(task, quantum, taskDef, butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 485, in runQuantum
+    task.runQuantum(butlerQC, inputRefs, outputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/cp_pipe/g0db887bb66+806103fd67/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 166, in runQuantum
+    outputs = self.run(**inputs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/cp_pipe/g0db887bb66+806103fd67/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 270, in run
+    fluxes = np.delete(fluxes, xcorrNum)
+  File "<__array_function__ internals>", line 5, in delete
+  File "/sdf/home/a/abrought/.local/lib/python3.8/site-packages/numpy/lib/function_base.py", line 4523, in delete
+    raise IndexError(
+IndexError: index 160 is out of bounds for axis 0 with size 160
+Process task-{instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...}:
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/conda/miniconda3-py38_4.9.2/envs/lsst-scipipe-0.7.0-ext/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 131, in _executeJob
+    quantumExecutor.execute(taskDef, quantum, butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 179, in execute
+    self.runQuantum(task, quantum, taskDef, butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 485, in runQuantum
+    task.runQuantum(butlerQC, inputRefs, outputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/cp_pipe/g0db887bb66+806103fd67/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 166, in runQuantum
+    outputs = self.run(**inputs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/cp_pipe/g0db887bb66+806103fd67/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 270, in run
+    fluxes = np.delete(fluxes, xcorrNum)
+  File "<__array_function__ internals>", line 5, in delete
+  File "/sdf/home/a/abrought/.local/lib/python3.8/site-packages/numpy/lib/function_base.py", line 4523, in delete
+    raise IndexError(
+IndexError: index 160 is out of bounds for axis 0 with size 160
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...}> failed; processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 1 failed and 0 remain out of total 1 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Failed jobs:
+lsst.ctrl.mpexec.mpGraphExecutor ERROR:   - FAILED: <TaskDef(BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...}>
+lsst.daf.butler.cli.utils ERROR: Caught an exception, details are in traceback:
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cli/cmd/commands.py", line 105, in run
+    script.run(qgraphObj=qgraph, **kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cli/script/run.py", line 175, in run
+    f.runPipeline(qgraphObj, taskFactory, args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 732, in runPipeline
+    executor.execute(graph, butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 299, in execute
+    self._executeQuantaMP(graph, butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2021_52/stack/miniconda3-py38_4.9.2-0.7.0/Linux64/ctrl_mpexec/g80d878e12a+6dcb4f7875/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 489, in _executeQuantaMP
+    raise MPGraphExecutorError("One or more tasks failed or timed out during execution.")
+lsst.ctrl.mpexec.mpGraphExecutor.MPGraphExecutorError: One or more tasks failed or timed out during execution.

@@ -1,0 +1,209 @@
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 4 quanta for 1 tasks, graph ID: '1681837523.4130218-2883951'
+Quanta  Tasks  
+------ --------
+     4 bfkSolve
+lsst.ip.isr.calibType WARNING: Previous version found for PTC dataset: 1.0. Setting 'ptcTurnoff' in all amps to last value in 'finalMeans'.
+timer.lsst.daf.butler.datastores.fileDatastore ERROR: Reading from location file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R03_S12_u_cslage_bps_13144M_20220103T180612Z.fits  with formatter lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter: Took 0.0357 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor ERROR: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 23, exposure: 3021120600576, ...} failed. Exception ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset db201c8b-aa36-4c1b-996b-4259911cfcff (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R03_S12_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+lsst.ip.isr.calibType WARNING: Previous version found for PTC dataset: 1.0. Setting 'ptcTurnoff' in all amps to last value in 'finalMeans'.
+timer.lsst.daf.butler.datastores.fileDatastore ERROR: Reading from location file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R02_S00_u_cslage_bps_13144M_20220103T180612Z.fits  with formatter lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter: Took 0.0355 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor ERROR: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...} failed. Exception ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset 2f773dd4-9617-46fd-9d9b-698153ce1d7b (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R02_S00_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+Process task-{instrument: 'LSSTCam', detector: 23, exposure: 3021120600576, ...}:
+lsst.ip.isr.calibType WARNING: Previous version found for PTC dataset: 1.0. Setting 'ptcTurnoff' in all amps to last value in 'finalMeans'.
+timer.lsst.daf.butler.datastores.fileDatastore ERROR: Reading from location file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R24_S11_u_cslage_bps_13144M_20220103T180612Z.fits  with formatter lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter: Took 0.0362 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor ERROR: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 112, exposure: 3021120600576, ...} failed. Exception ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset 3bf78eac-31cd-4cc6-858c-d7815c415544 (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R24_S11_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+Process task-{instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...}:
+Process task-{instrument: 'LSSTCam', detector: 112, exposure: 3021120600576, ...}:
+lsst.ip.isr.calibType WARNING: Previous version found for PTC dataset: 1.0. Setting 'ptcTurnoff' in all amps to last value in 'finalMeans'.
+timer.lsst.daf.butler.datastores.fileDatastore ERROR: Reading from location file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R21_S02_u_cslage_bps_13144M_20220103T180612Z.fits  with formatter lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter: Took 0.0335 seconds
+lsst.ctrl.mpexec.singleQuantumExecutor ERROR: Execution of task 'bfkSolve' on quantum {instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...} failed. Exception ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset c8cff213-3be6-4345-9341-7e1a37d7d68a (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R21_S02_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+Process task-{instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...}:
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1348, in _read_artifact_into_memory
+    result = formatter.read(component=getInfo.component if isComponent else None)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/formatters/file.py", line 252, in read
+    data = self._readFile(path, self.fileDescriptor.storageClass.pytype)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1348, in _read_artifact_into_memory
+    result = formatter.read(component=getInfo.component if isComponent else None)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/obs_base/g24faba0429+c3c426dfa8/python/lsst/obs/base/formatters/fitsGeneric.py", line 61, in _readFile
+    return pytype.readFits(path)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/formatters/file.py", line 252, in read
+    data = self._readFile(path, self.fileDescriptor.storageClass.pytype)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1348, in _read_artifact_into_memory
+    result = formatter.read(component=getInfo.component if isComponent else None)
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/calibType.py", line 522, in readFits
+    return calibClass.fromTable(tableList, **kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1348, in _read_artifact_into_memory
+    result = formatter.read(component=getInfo.component if isComponent else None)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/obs_base/g24faba0429+c3c426dfa8/python/lsst/obs/base/formatters/fitsGeneric.py", line 61, in _readFile
+    return pytype.readFits(path)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/formatters/file.py", line 252, in read
+    data = self._readFile(path, self.fileDescriptor.storageClass.pytype)
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/ptcDataset.py", line 521, in fromTable
+    mask = record['FINAL_MEANS'].mask
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/formatters/file.py", line 252, in read
+    data = self._readFile(path, self.fileDescriptor.storageClass.pytype)
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/calibType.py", line 522, in readFits
+    return calibClass.fromTable(tableList, **kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/obs_base/g24faba0429+c3c426dfa8/python/lsst/obs/base/formatters/fitsGeneric.py", line 61, in _readFile
+    return pytype.readFits(path)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/obs_base/g24faba0429+c3c426dfa8/python/lsst/obs/base/formatters/fitsGeneric.py", line 61, in _readFile
+    return pytype.readFits(path)
+AttributeError: 'numpy.ndarray' object has no attribute 'mask'
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/ptcDataset.py", line 521, in fromTable
+    mask = record['FINAL_MEANS'].mask
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/calibType.py", line 522, in readFits
+    return calibClass.fromTable(tableList, **kwargs)
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/calibType.py", line 522, in readFits
+    return calibClass.fromTable(tableList, **kwargs)
+
+The above exception was the direct cause of the following exception:
+
+AttributeError: 'numpy.ndarray' object has no attribute 'mask'
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/ptcDataset.py", line 521, in fromTable
+    mask = record['FINAL_MEANS'].mask
+  File "/sdf/home/a/abrought/alternate_branches/ip_isr/python/lsst/ip/isr/ptcDataset.py", line 521, in fromTable
+    mask = record['FINAL_MEANS'].mask
+Traceback (most recent call last):
+
+The above exception was the direct cause of the following exception:
+
+AttributeError: 'numpy.ndarray' object has no attribute 'mask'
+AttributeError: 'numpy.ndarray' object has no attribute 'mask'
+Traceback (most recent call last):
+
+The above exception was the direct cause of the following exception:
+
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 161, in _executeJob
+    quantumExecutor.execute(taskDef, quantum)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 142, in execute
+    result = self._execute(taskDef, quantum)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 265, in _execute
+    self.runQuantum(runTask, quantum, taskDef, limited_butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 161, in _executeJob
+    quantumExecutor.execute(taskDef, quantum)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 555, in runQuantum
+    task.runQuantum(butlerQC, inputRefs, outputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 314, in _bootstrap
+    self.run()
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 142, in execute
+    result = self._execute(taskDef, quantum)
+  File "/sdf/home/a/abrought/alternate_branches/cp_pipe/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 161, in runQuantum
+    inputs = butlerQC.get(inputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/lib/python3.10/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 161, in _executeJob
+    quantumExecutor.execute(taskDef, quantum)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 265, in _execute
+    self.runQuantum(runTask, quantum, taskDef, limited_butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 222, in get
+    val = self._get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 161, in _executeJob
+    quantumExecutor.execute(taskDef, quantum)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 142, in execute
+    result = self._execute(taskDef, quantum)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 555, in runQuantum
+    task.runQuantum(butlerQC, inputRefs, outputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 138, in _get
+    return self.__butler.get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 142, in execute
+    result = self._execute(taskDef, quantum)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 265, in _execute
+    self.runQuantum(runTask, quantum, taskDef, limited_butler)
+  File "/sdf/home/a/abrought/alternate_branches/cp_pipe/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 161, in runQuantum
+    inputs = butlerQC.get(inputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/_butler.py", line 1440, in get
+    return self.datastore.get(ref, parameters=parameters, storageClass=storageClass)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 265, in _execute
+    self.runQuantum(runTask, quantum, taskDef, limited_butler)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 555, in runQuantum
+    task.runQuantum(butlerQC, inputRefs, outputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 222, in get
+    val = self._get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 2205, in get
+    return self._read_artifact_into_memory(getInfo, ref, isComponent=isComponent, cache_ref=cache_ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/singleQuantumExecutor.py", line 555, in runQuantum
+    task.runQuantum(butlerQC, inputRefs, outputRefs)
+  File "/sdf/home/a/abrought/alternate_branches/cp_pipe/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 161, in runQuantum
+    inputs = butlerQC.get(inputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 138, in _get
+    return self.__butler.get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1350, in _read_artifact_into_memory
+    raise ValueError(
+  File "/sdf/home/a/abrought/alternate_branches/cp_pipe/python/lsst/cp/pipe/makeBrighterFatterKernel.py", line 161, in runQuantum
+    inputs = butlerQC.get(inputRefs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 222, in get
+    val = self._get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/_butler.py", line 1440, in get
+    return self.datastore.get(ref, parameters=parameters, storageClass=storageClass)
+ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset c8cff213-3be6-4345-9341-7e1a37d7d68a (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R21_S02_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 222, in get
+    val = self._get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 138, in _get
+    return self.__butler.get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 2205, in get
+    return self._read_artifact_into_memory(getInfo, ref, isComponent=isComponent, cache_ref=cache_ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/pipe_base/g3523509324+31406b631a/python/lsst/pipe/base/butlerQuantumContext.py", line 138, in _get
+    return self.__butler.get(ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/_butler.py", line 1440, in get
+    return self.datastore.get(ref, parameters=parameters, storageClass=storageClass)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1350, in _read_artifact_into_memory
+    raise ValueError(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/_butler.py", line 1440, in get
+    return self.datastore.get(ref, parameters=parameters, storageClass=storageClass)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 2205, in get
+    return self._read_artifact_into_memory(getInfo, ref, isComponent=isComponent, cache_ref=cache_ref)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 2205, in get
+    return self._read_artifact_into_memory(getInfo, ref, isComponent=isComponent, cache_ref=cache_ref)
+ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset db201c8b-aa36-4c1b-996b-4259911cfcff (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R03_S12_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1350, in _read_artifact_into_memory
+    raise ValueError(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/daf_butler/g54a215b5cb+a8cb4d73b3/python/lsst/daf/butler/datastores/fileDatastore.py", line 1350, in _read_artifact_into_memory
+    raise ValueError(
+ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset 3bf78eac-31cd-4cc6-858c-d7815c415544 (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R24_S11_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+ValueError: Failure from formatter 'lsst.obs.base.formatters.fitsGeneric.FitsGenericFormatter' for dataset 2f773dd4-9617-46fd-9d9b-698153ce1d7b (ptc from file:///sdf/group/rubin/repo/main/u/cslage/bps_13144M/20220103T180612Z/ptc/ptc_LSSTCam_R02_S00_u_cslage_bps_13144M_20220103T180612Z.fits): 'numpy.ndarray' object has no attribute 'mask'
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 23, exposure: 3021120600576, ...}> failed, exit code=1; processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 112, exposure: 3021120600576, ...}> failed, exit code=1; processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 2 failed and 2 remain out of total 4 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...}> failed, exit code=1; processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 3 failed and 1 remain out of total 4 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...}> failed, exit code=1; processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 4 failed and 0 remain out of total 4 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Failed jobs:
+lsst.ctrl.mpexec.mpGraphExecutor ERROR:   - FAILED: <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 23, exposure: 3021120600576, ...}>
+lsst.ctrl.mpexec.mpGraphExecutor ERROR:   - FAILED: <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 112, exposure: 3021120600576, ...}>
+lsst.ctrl.mpexec.mpGraphExecutor ERROR:   - FAILED: <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 9, exposure: 3021120600576, ...}>
+lsst.ctrl.mpexec.mpGraphExecutor ERROR:   - FAILED: <TaskDef(lsst.cp.pipe.makeBrighterFatterKernel.BrighterFatterKernelSolveTask, label=bfkSolve) dataId={instrument: 'LSSTCam', detector: 83, exposure: 3021120600576, ...}>
+lsst.daf.butler.cli.utils ERROR: Caught an exception, details are in traceback:
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/cli/cmd/commands.py", line 229, in run
+    script.run(qgraphObj=qgraph, **kwargs)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/cli/script/run.py", line 193, in run
+    f.runPipeline(qgraphObj, taskFactory, args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 745, in runPipeline
+    executor.execute(graph)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 402, in execute
+    self._executeQuantaMP(graph, self.report)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_15/conda/envs/lsst-scipipe-5.1.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g52cafcd7e7+36db4afe77/python/lsst/ctrl/mpexec/mpGraphExecutor.py", line 675, in _executeQuantaMP
+    raise MPGraphExecutorError("One or more tasks failed or timed out during execution.")
+lsst.ctrl.mpexec.mpGraphExecutor.MPGraphExecutorError: One or more tasks failed or timed out during execution.

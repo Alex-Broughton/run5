@@ -1,0 +1,61 @@
+description: cp_pipe PTC calibration construction.
+parameters:
+    exposureName: cpPtcProc
+    measuredCovariances: cpPtcExtract
+tasks:
+  isr:
+    class: lsst.ip.isr.IsrTask
+    config:
+      connections.ccdExposure: raw
+      connections.outputExposure: parameters.exposureName
+      # CTI correction: if doDeferredCharge=True and if
+      # isr:doApplyGains=True in cpDeferredCharge.yaml
+      # (default as of w_2023_18), deferredChargeCorrection.useGains
+      # should be True.
+      doWrite: true
+      doOverscan: true
+      overscan.fitType: 'MEDIAN_PER_ROW'
+      doAssembleCcd: true
+      doBias: true
+      doVariance: true
+      doLinearize: true
+      doCrosstalk: false
+      doBrighterFatter: false
+      doDark: true
+      doStrayLight: false
+      doFlat: false
+      doFringe: false
+      doApplyGains: false
+      doDefect: true
+      doNanMasking: true
+      doInterpolate: false
+      doSaturation: false
+      doSaturationInterpolation: false
+      growSaturationFootprintSize: 0
+      doDeferredCharge: true
+      deferredChargeCorrection.useGains: false
+  ptcExtract:
+    class: lsst.cp.pipe.ptc.PhotonTransferCurveExtractTask
+    config:
+      connections.inputExp: parameters.exposureName
+      connections.taskMetadata: 'isr_metadata'
+      connections.outputCovariances: parameters.measuredCovariances
+      #maxMeanSignal: {'ALL_AMPS': 60000.0}
+      maxMeanSignal: {'C10': 62050.38094162392, 'C11': 62239.20611061358, 'C12': 63215.74110862148, 'C13': 64176.13820047512, 'C14': 63747.87951652734, 'C15': 63542.748400058255, 'C16': 64173.610552334314, 'C17': 61753.16910805145, 'C07': 59093.879493983724, 'C06': 63665.234462799766, 'C05': 60938.03959347532, 'C04': 61949.71878291115, 'C03': 61764.45497829913, 'C02': 60838.81884288167, 'C01': 54468.198355382316, 'C00': 59403.1682822884}
+      #maximumRangeCovariancesAstier: 15
+  ptcSolve:
+    class: lsst.cp.pipe.ptc.PhotonTransferCurveSolveTask
+    config:
+      connections.inputCovariances: parameters.measuredCovariances
+      connections.outputPtcDataset: ptc
+      ptcFitType: FULLCOVARIANCE
+      #maximumRangeCovariancesAstier: 15
+contracts:
+  - ptcSolve.maximumRangeCovariancesAstier == ptcExtract.maximumRangeCovariancesAstier
+  - ptcSolve.binSize == ptcExtract.binSize
+subsets:
+  gainFromFlatPairs:
+      subset:
+          - isr
+          - ptcExtract
+      description: gain estimation from pairs of flats at the same exposure time.

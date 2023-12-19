@@ -1,0 +1,1 @@
+slurmstepd: error: *** JOB 5507253 ON rome0264 CANCELLED AT 2022-09-10T11:03:27 ***

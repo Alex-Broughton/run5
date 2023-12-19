@@ -1,0 +1,21 @@
+lsst.daf.butler.cli.utils ERROR: Caught an exception, details are in traceback:
+Traceback (most recent call last):
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g45d0adf2d3+61755f3ad1/python/lsst/ctrl/mpexec/cli/cmd/commands.py", line 220, in run
+    if (qgraph := script.qgraph(pipelineObj=pipeline, **kwargs, show=show)) is None:
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g45d0adf2d3+61755f3ad1/python/lsst/ctrl/mpexec/cli/script/qgraph.py", line 196, in qgraph
+    qgraph = f.makeGraph(pipelineObj, args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g45d0adf2d3+61755f3ad1/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 547, in makeGraph
+    butler, collections, run = _ButlerFactory.makeButlerAndCollections(args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g45d0adf2d3+61755f3ad1/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 358, in makeButlerAndCollections
+    butler, inputs, self = cls._makeReadParts(args)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g45d0adf2d3+61755f3ad1/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 295, in _makeReadParts
+    self = cls(butler.registry, args, writeable=False)
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/ctrl_mpexec/g45d0adf2d3+61755f3ad1/python/lsst/ctrl/mpexec/cmdLineFwk.py", line 225, in __init__
+    self.inputs = tuple(registry.queryCollections(args.input, flattenChains=True)) if args.input else ()
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/daf_butler/ge45d324af0+02c8b8cb00/python/lsst/daf/butler/registries/sql.py", line 960, in queryCollections
+    for record in self._managers.collections.resolve_wildcard(
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/daf_butler/ge45d324af0+02c8b8cb00/python/lsst/daf/butler/registry/collections/_base.py", line 498, in resolve_wildcard
+    result.extend(resolve_nested(self.find(name), done))
+  File "/cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_19/conda/envs/lsst-scipipe-6.0.0-exact-ext/share/eups/Linux64/daf_butler/ge45d324af0+02c8b8cb00/python/lsst/daf/butler/registry/collections/_base.py", line 452, in find
+    raise MissingCollectionError(f"No collection with name '{name}' found.")
+lsst.daf.butler.registry._exceptions.MissingCollectionError: No collection with name 'u/abrought/BF/2023.05.15/bfk.2023.05.15.R21-S02.fudgefactor_0.625' found.

@@ -1,0 +1,1817 @@
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:265: RuntimeWarning: Degrees of freedom <= 0 for slice
+  ret = _var(a, axis=axis, dtype=dtype, out=out, ddof=ddof,
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:223: RuntimeWarning: invalid value encountered in divide
+  arrmean = um.true_divide(arrmean, div, out=arrmean, casting='unsafe',
+/sdf/group/rubin/sw/conda/envs/lsst-scipipe-6.0.0/lib/python3.10/site-packages/numpy/core/_methods.py:257: RuntimeWarning: invalid value encountered in divide
+  ret = ret.dtype.type(ret / rcount)
+/sdf/home/a/abrought/bin/SpotAnalysis.py:643: RuntimeWarning: invalid value encountered in divide
+  radial_prof = np.histogram(r, bins, weights=(image*weights*mask))[0] / np.histogram(r, bins, weights=(mask*weights))[0]
+slurmstepd: error: *** JOB 17747245 ON sdfrome011 CANCELLED AT 2023-05-21T11:51:00 ***

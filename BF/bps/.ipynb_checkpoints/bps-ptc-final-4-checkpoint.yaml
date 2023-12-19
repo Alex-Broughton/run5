@@ -1,0 +1,15 @@
+pipelineYaml: "/sdf/home/a/abrought/run5/BF/config2/cpPtc2.yaml"
+
+project: dev
+campaign: quick
+computeSite: s3df
+
+# Make sure these values correspond to ones in the bin/run_demo.sh's
+# pipetask command line.
+payload: # defaults to u/abrought/...
+  payloadName: "BF/2023.10.09/ptc.R21-S02.bfcorrected.final.nonFluxConserving"
+  butlerConfig: "/repo/main"
+  inCollection: "u/abrought/BF/2023.07.19/ptc.R21-S02.trunc_to_pcti.fullnoisematrix,u/abrought/BF/2023.10.09/bfk.R21-S02.final,${SBIAS},${SDARK},${DEFECTS},${CTI},${LINEARITY},LSSTCam/raw/all"
+  dataQuery: "instrument='LSSTCam' AND detector IN (83) AND exposure.science_program IN ('13144')  AND exposure.observation_type = 'flat' AND exposure.observation_reason='flat' "
+
+extraQgraphOptions: "--config isr:connections.newBFKernel='bfk'"

@@ -1,0 +1,1616 @@
+Starting...
+Started 13251/R24-S11/corrected...NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  78 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  75 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1606
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1461
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1563
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  76 
+
+397
+Finished! :)
+Started 13252/R24-S11/corrected...NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1742
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  186
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  188
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  150
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1718
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  8
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  107
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1747
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  91
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  36
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  113
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  123
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  12
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  126
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  191
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  168
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  164
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1714
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  10
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  175
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  86
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  25
+NUMPOINTS LEFT:  75 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  183
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  33
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  204
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1716
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1721
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1737
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  196
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  23
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  49
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1733
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  202
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  78
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  46
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1712
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  38
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  37
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  176
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1736
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1723
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  92
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  184
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  201
+NUMPOINTS LEFT:  75 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  205
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  159
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1704
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1744
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  193
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  52
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  116
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1735
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  162
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  85
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  156
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1741
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  147
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  154
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  14
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  119
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  39
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1719
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  55
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1708
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  48
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  95
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  87
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  189
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  179
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  40
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  47
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  90
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  30
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  121
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  19
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  149
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1745
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1738
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1730
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  203
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  197
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  153
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  96
+NUMPOINTS LEFT:  82 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  43
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  93
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1727
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  51
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  102
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1746
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  76
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  111
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  130
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  50
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1715
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1743
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  26
+NUMPOINTS LEFT:  82 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  128
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  109
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  77
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1709
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  165
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1731
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  88
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  94
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  27
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  106
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  45
+NUMPOINTS LEFT:  75 
+
+NUMPOINTS LEFT:  75 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  173
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  112
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  16
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  174
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1711
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1720
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  53
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  84
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  24
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  163
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  15
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  22
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1724
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  198
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  171
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  177
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  185
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  35
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  98
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  129
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  41
+NUMPOINTS LEFT:  75 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  13
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  82
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  79
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  28
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  181
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  160
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1739
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  118
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  169
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  195
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  122
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  187
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1728
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  190
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  110
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1732
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  115
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  97
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1734
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1729
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  108
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  161
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  151
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  114
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  18
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  125
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1725
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  170
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  178
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  166
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1713
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  104
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  11
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  21
+NUMPOINTS LEFT:  82 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  105
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  44
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  182
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1710
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  100
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  6
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  180
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  83
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  9
+NUMPOINTS LEFT:  82 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  152
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  7
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  42
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  89
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  54
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  200
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  167
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  124
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1726
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  157
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  29
+NUMPOINTS LEFT:  76 
+
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1722
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  99
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  103
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1703
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  158
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  32
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  80
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  192
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1740
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  120
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  17
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  199
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  31
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  148
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  81
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  34
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  155
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  127
+NUMPOINTS LEFT:  79 
+
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  101
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  20
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1707
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  117
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  194
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  172
+NUMPOINTS LEFT:  83 
+
+NUMPOINTS LEFT:  80 
+
+NUMPOINTS LEFT:  0 
+
+No spots left in exposure  1717
+93
+Finished! :)
+FINISHED :D

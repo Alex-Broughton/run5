@@ -1,0 +1,88 @@
+lsst.pipe.base.quantum_graph_builder INFO: Processing pipeline subgraph 1 of 1 with 2 task(s).
+lsst.pipe.base.quantum_graph_builder INFO: Iterating over query results to associate quanta with datasets.
+lsst.pipe.base.quantum_graph_builder INFO: Initial bipartite graph has 829 quanta, 4147 dataset nodes, and 4971 edges from 828 query row(s).
+lsst.pipe.base.quantum_graph_builder INFO: Generated 828 quanta for task isr.
+lsst.pipe.base.quantum_graph_builder INFO: Generated 1 quantum for task solveCti.
+lsst.ctrl.mpexec.cmdLineFwk INFO: QuantumGraph contains 829 quanta for 2 tasks, graph ID: '1700123757.0833654-101185'
+Quanta  Tasks  
+------ --------
+   828      isr
+     1 solveCti
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500318, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501000, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500123, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500721, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500022, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501101, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501176, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500183, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500138, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500957, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500912, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501056, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500108, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500432, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500942, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500168, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500955, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501161, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500153, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501251, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500706, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501146, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501015, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500970, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500925, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500835, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501249, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501204, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500880, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500760, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500850, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Preparing execution of quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500805, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500318, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500706, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501000, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500942, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500925, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500432, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501015, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500138, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501101, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501251, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500957, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500123, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500108, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501161, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500912, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500183, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501249, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500955, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501146, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500168, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501176, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501056, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500835, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500721, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500022, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500970, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500153, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501204, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500760, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500880, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500850, ...}.
+lsst.ctrl.mpexec.singleQuantumExecutor INFO: Constructing task and executing quantum for label=isr dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500805, ...}.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.ip.isr.isrTask.IsrTask, label=isr) dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500706, ...}> failed, killed by signal 9 (Killed); processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Upstream job failed for task <TaskDef(lsst.cp.pipe.deferredCharge.CpCtiSolveTask, label=solveCti) dataId={instrument: 'LSSTCam', detector: 23}>, skipping this task.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 2 failed and 827 remain out of total 829 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.ip.isr.isrTask.IsrTask, label=isr) dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500318, ...}> failed, killed by signal 9 (Killed); processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.ip.isr.isrTask.IsrTask, label=isr) dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501251, ...}> failed, killed by signal 9 (Killed); processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.ip.isr.isrTask.IsrTask, label=isr) dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110501176, ...}> failed, killed by signal 9 (Killed); processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.ip.isr.isrTask.IsrTask, label=isr) dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500123, ...}> failed, killed by signal 9 (Killed); processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 6 failed and 823 remain out of total 829 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.ip.isr.isrTask.IsrTask, label=isr) dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500022, ...}> failed, killed by signal 9 (Killed); processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 7 failed and 822 remain out of total 829 quanta.
+lsst.ctrl.mpexec.mpGraphExecutor ERROR: Task <TaskDef(lsst.ip.isr.isrTask.IsrTask, label=isr) dataId={instrument: 'LSSTCam', detector: 23, exposure: 2023110500721, ...}> failed, killed by signal 9 (Killed); processing will continue for remaining tasks.
+lsst.ctrl.mpexec.mpGraphExecutor INFO: Executed 0 quanta successfully, 8 failed and 821 remain out of total 829 quanta.
+slurmstepd: error: *** JOB 34048704 ON sdfrome082 CANCELLED AT 2023-11-16T00:39:08 ***
+slurmstepd: error: Detected 8 oom-kill event(s) in StepId=34048704.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.

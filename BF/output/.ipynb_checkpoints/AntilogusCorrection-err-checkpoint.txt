@@ -1,0 +1,9 @@
+Traceback (most recent call last):
+  File "/sdf/home/a/abrought/run5/BF/notebooks/AntilogusCorrection.py", line 134, in <module>
+    mu[amp.getName()].append(np.mean(amp_image))
+  File "<__array_function__ internals>", line 5, in mean
+  File "/sdf/group/rubin/sw/conda/envs/lsst-scipipe-4.1.0/lib/python3.10/site-packages/numpy/core/fromnumeric.py", line 3440, in mean
+    return _methods._mean(a, axis=axis, dtype=dtype,
+  File "/sdf/group/rubin/sw/conda/envs/lsst-scipipe-4.1.0/lib/python3.10/site-packages/numpy/core/_methods.py", line 189, in _mean
+    ret = ret.dtype.type(ret / rcount)
+AttributeError: type object 'numpy.float32' has no attribute 'type'. Did you mean: 'dtype'?

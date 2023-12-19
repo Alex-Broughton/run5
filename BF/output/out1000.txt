@@ -1,0 +1,2003 @@
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyfftw in /sdf/home/a/abrought/.local/lib/python3.10/site-packages (0.13.1)
+Requirement already satisfied: numpy<2.0,>=1.20 in /cvmfs/sw.lsst.eu/linux-x86_64/lsst_distrib/w_2023_22/conda/envs/lsst-scipipe-6.0.0-exact-ext/lib/python3.10/site-packages (from pyfftw) (1.23.5)
+INFO: (image sum after/before gain context): 1.6822562
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822591
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776881
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081109
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081233
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432737
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708111
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081219
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776856
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432445
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432922
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432739
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081194
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776819
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822274
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708117
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682243
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432909
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081226
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081417
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.743275
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822625
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776896
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822594
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081099
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776878
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081143
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081263
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822555
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822608
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682253
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776928
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432815
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822621
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433184
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432625
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776823
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708138
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.743287
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432504
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.743251
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822642
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081157
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776844
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822555
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677687
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822633
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6777012
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677689
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776879
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432612
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822459
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081224
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682263
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708131
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822495
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432724
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776768
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822469
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081308
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432729
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432805
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822555
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432928
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432536
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822565
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432561
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822586
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432725
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776878
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822659
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432501
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081084
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081058
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822599
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432555
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081251
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6777
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776854
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081125
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081324
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822526
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432756
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433186
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776859
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081064
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081139
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708123
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081066
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.743258
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776628
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776862
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822474
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081245
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776903
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776813
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776882
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682259
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776879
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776788
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682248
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822666
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432867
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433634
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822464
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822504
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081308
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081282
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432739
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081304
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432559
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081258
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432469
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432642
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822612
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682256
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776841
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432879
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822612
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677675
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081354
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822535
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682263
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432638
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432446
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822376
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822654
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081275
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677667
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822649
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081163
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432455
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776809
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432427
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081248
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776783
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776876
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776825
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081192
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432536
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822574
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.74325
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822654
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081332
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433321
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081354
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776817
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776826
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822568
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081188
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822492
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432795
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432809
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081214
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822546
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822568
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081356
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776865
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432847
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776809
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432635
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708133
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081158
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776885
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822605
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432653
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708103
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081335
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822622
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776875
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776874
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081238
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432778
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081352
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776806
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432914
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081074
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822593
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822543
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433227
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776928
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776876
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822455
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433287
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776851
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081169
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432702
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822555
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081288
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776901
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776893
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776911
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776894
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776853
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822518
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776819
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776861
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776783
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081279
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822568
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776868
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822559
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432741
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822633
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081343
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432557
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081244
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776911
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822604
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081164
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776828
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708128
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776917
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776682
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776818
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432564
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822436
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822565
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822639
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432992
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081225
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822554
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822524
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432853
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708101
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081001
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081182
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776828
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822647
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432554
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432458
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7080992
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081063
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433455
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822556
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776892
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433133
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776962
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776917
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822604
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432538
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776828
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822522
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776922
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432435
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.74325
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432479
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081138
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081246
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822482
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677693
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081244
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822392
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822635
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432462
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776893
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081345
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776853
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081102
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776869
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081236
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081362
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822573
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432723
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822594
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822605
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081013
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822648
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432601
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776848
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433051
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081304
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432697
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432601
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776845
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822667
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776878
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081246
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677683
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433089
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432458
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776829
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822656
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.743252
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081289
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708134
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432678
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081155
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432506
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081382
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822629
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682261
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081251
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776826
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822613
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776866
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822615
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432715
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432535
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432507
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432467
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432603
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822531
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7080996
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081329
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432436
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822585
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776873
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432603
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776881
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.70812
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081171
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776861
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081199
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822629
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822606
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682252
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432622
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776887
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432551
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776899
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.74325
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822505
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776881
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081081
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776587
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432824
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432638
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432623
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822624
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7433566
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708123
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677687
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081223
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776845
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.67768
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677699
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776837
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081233
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822557
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432623
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776884
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776899
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677689
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822537
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682264
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.743256
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776882
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081208
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776832
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081132
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708132
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822621
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.708132
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081258
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822454
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081279
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822664
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682261
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822578
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822625
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081193
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432599
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081313
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682259
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776913
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776922
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822579
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822604
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776896
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081132
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432555
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822646
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081165
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432734
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432629
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432697
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081336
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.677684
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776885
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081207
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776903
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432523
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7080942
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822548
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776881
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776923
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432652
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081307
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432629
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081318
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432595
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822611
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7081252
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822478
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7432517
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776882
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822568
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.743328
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6776844
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7382456
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7038673
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6840475
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7375802
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7048693
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7423055
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6862704
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7386734
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811082
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6783398
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053905
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6803055
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6828483
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7401084
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6779441
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.684968
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7416041
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7045921
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.680724
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822686
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6863524
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7416126
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6835517
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6799952
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7386589
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7409514
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7046167
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6783328
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7035753
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7386794
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7074118
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6853279
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7038182
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053902
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7044985
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7054634
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7431674
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6783291
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7375652
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.737579
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6856399
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7392557
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7382281
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7382491
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6835586
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6835737
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7042079
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.704442
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7369968
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7050681
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7051371
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.685642
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.737144
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6777474
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7369901
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6791103
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7382323
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7428824
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7375889
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7369344
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6825166
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6790982
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7401452
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7051396
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7423115
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6825111
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7048836
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7423044
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.737845
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7048808
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6777517
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7369921
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7042558
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6840627
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7392684
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6777487
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6840471
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6845526
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.741604
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6805568
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7074281
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7371454
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6809708
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6787481
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6845572
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6828423
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.736928
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6795732
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7369312
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6795763
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7035775
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811053
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7044982
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6859086
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6810849
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053487
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053536
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7373661
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7378397
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.685901
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6832308
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6808714
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7416047
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7373462
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6859206
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822685
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6808906
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7045017
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6779455
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6849889
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.686272
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7373651
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6825141
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7046094
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7423109
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.705124
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7038404
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7041491
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7369894
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.705477
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6807297
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6803323
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7042085
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7065585
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7409334
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6862646
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6779469
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6845775
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7054514
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6860923
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6787487
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7035016
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7409463
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7386762
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7370025
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811097
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6787539
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7040848
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6828486
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6809807
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7409503
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6862713
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811141
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7048825
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6853269
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6783328
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6860783
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7054766
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7378412
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7386805
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6809682
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6849763
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053509
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6805643
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6860899
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6808985
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7042248
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053552
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6828473
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7046409
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6863378
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.737827
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7431656
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6823496
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6849724
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7382375
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6791128
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7371453
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7035118
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6810961
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7041186
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.686354
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7040945
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6810532
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6803005
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6853275
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.706569
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7431735
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7048641
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7400953
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822714
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6791
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.70419
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6800104
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7041644
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6856338
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7400999
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7040775
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6810448
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6863488
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6805613
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6810453
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6832232
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7428825
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6800171
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6807139
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.70453
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6835667
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7051629
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7051429
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6856416
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.736925
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7409514
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6807164
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.684566
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7428734
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6777446
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6777471
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6823419
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6809841
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7042319
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7428819
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811029
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7038
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6832314
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6783421
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.680017
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6823475
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.686089
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6840489
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053643
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6860921
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811018
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7041614
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6795783
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6791142
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7392647
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6808994
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811059
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7046379
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.704193
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682842
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6779444
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6807303
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6795783
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7065728
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7041525
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6803123
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6835619
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6863484
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6858872
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7054701
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6811122
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6825209
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7065796
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6800165
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6808811
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6849834
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7415874
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7371469
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7074138
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6810406
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.682524
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7422976
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6779463
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6810595
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.703862
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7074227
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.678745
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7074105
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.683222
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7371261
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6795793
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6856331
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6845785
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6787359
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6823488
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053746
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7428725
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7392505
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.70516
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6809785
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053828
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6853117
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7369243
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6823515
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7035409
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6853237
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6832165
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7373495
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6805599
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.737855
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822705
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6840465
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7053429
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6805674
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6822673
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7393041
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7373646
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7431577
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7050985
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6803135
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7431656
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6858845
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.6862743
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7066085
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7050949
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7051533
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7401327
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.7375553
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186934
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5203538
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4698853
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5164177
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4804192
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186676
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689502
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4789087
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5164248
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4769142
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.474903
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171105
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4804372
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4731182
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4731199
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4731094
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5162275
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689674
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4741696
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.472481
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4741329
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4772162
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5197034
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4698656
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186863
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.518085
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5152913
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5165788
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5162246
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5167212
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.469892
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689523
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5202874
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4731194
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5152816
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5205454
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689695
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5170956
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.519705
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4724461
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5203543
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5164233
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208347
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.478389
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4769107
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4693918
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4769135
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5165845
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5197002
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.469394
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4775689
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.469132
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4793701
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208325
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192208
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520858
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5151423
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4745058
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4804244
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5161448
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5205466
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4703641
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689963
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186703
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4806448
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4789052
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5200084
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4748873
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4747608
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5167254
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5157382
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192358
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206302
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4772121
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4798008
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520629
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5164063
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206559
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520006
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5161415
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192293
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4808359
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4737023
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5160909
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4772087
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4798162
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.473677
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689656
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5175142
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5161444
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5179143
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4716411
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4766958
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208402
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689676
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5179135
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.469133
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4775692
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4793638
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4793644
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.518695
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206556
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4698784
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206264
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4779023
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5165842
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4748727
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.516222
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5180844
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4808455
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.476914
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4731212
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5157328
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206591
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5154414
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4709066
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208671
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4708825
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4779056
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171005
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.474891
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186695
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4779019
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4748986
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4737277
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4808059
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4703586
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5157336
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5195609
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5202901
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4693936
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5179112
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4767616
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520658
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5162159
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4775709
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192375
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5165889
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5175189
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206566
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520286
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5175228
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4775708
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689575
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4716628
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4808321
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4801481
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208573
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5205452
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5175291
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4747243
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.519221
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4767646
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4783779
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5179092
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4693911
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.518078
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5161043
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4703727
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206574
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208675
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520352
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5197084
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4808254
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4745123
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.516099
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5195596
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4716578
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4745361
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5154536
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4804295
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5167255
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4789163
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192384
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5203536
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4747365
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208377
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.515143
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5154467
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5152837
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5195644
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4736842
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.519712
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.51658
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5167311
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4789183
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689476
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4769131
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5151349
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171087
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4801655
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5205479
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4783691
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4806353
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4779059
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5208305
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5203503
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171033
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4806476
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4806424
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.515142
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5202851
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.516417
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4703528
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.477208
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171572
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4807745
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192157
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5157317
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.470373
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.480436
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4724551
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5167311
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4766952
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5152949
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206587
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4793775
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5180823
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4806448
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4793644
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206283
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4737128
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4772087
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171471
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192194
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206541
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4767643
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5161321
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4798086
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4807948
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.480171
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4689687
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4766858
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5180771
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4745376
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4693891
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520002
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4716036
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4808047
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520658
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.476693
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5179087
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186938
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4807777
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4708837
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206552
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5195615
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4745395
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4808489
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4801539
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.470906
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186787
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4691304
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4775698
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4741955
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5162165
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5154359
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5200053
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4708914
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.480173
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5205507
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.472451
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4767638
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171554
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4691317
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5154463
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5200038
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186727
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5202895
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4789214
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5151286
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192169
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.479808
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4724736
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.520872
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4741995
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.517157
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4767619
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5192276
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4716723
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.516106
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4778966
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4741633
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4798135
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5171459
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4747494
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5161107
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4766951
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5186806
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4691318
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5152999
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5157319
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4747365
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5206225
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4783897
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.4783698
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5195614
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5175154
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.5161288
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000
+INFO: (image sum after/before gain context): 1.469872
+INFO: BF kernel sum rules : kN -0.000000, kE -0.000000

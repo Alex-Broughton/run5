@@ -1,0 +1,16 @@
+description: cp_pipe brighter-fatter kernel calibration construction.
+tasks:
+  bfkSolve:
+    class: lsst.cp.pipe.BrighterFatterKernelSolveTask
+    config:
+      forceZeroSum: True
+      useAmatrix: True
+      level: 'AMP'
+      covSample: 10000
+      correlationQuadraticFit: False
+      correlationModelRadius: 4
+      correlationModelSlope: -1.19
+      #ignoreAmpsForAveraging: ['C02','C07']
+      connections.inputPtc: ptc
+      connections.outputBFK: bfk
+
