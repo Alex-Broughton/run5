@@ -1,0 +1,7 @@
+*.gz
+*.mp4
+*.fits
+*.pkl
+*.out
+*.err
+*output/*.txt
